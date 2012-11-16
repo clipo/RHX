@@ -1,5 +1,0 @@
-2012-05-21 18:00:24,562 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
-2012-05-21 18:00:37,411 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
-2012-05-21 18:01:18,552 - AutoSampler-startRHX - DEBUG - goToBalance:  Go to point outside of balance
-2012-05-21 18:01:45,910 - AutoSampler-startRHX - DEBUG - openBalanceDoor: Open the balance door
-2012-05-21 18:01:47,022 - AutoSampler-startRHX - DEBUG - Go to inside of balance

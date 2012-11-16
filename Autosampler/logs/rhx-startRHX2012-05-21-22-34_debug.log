@@ -1,5 +1,0 @@
-2012-05-21 22:34:54,023 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
-2012-05-21 22:35:34,795 - AutoSampler-startRHX - DEBUG - Now running postFire function
-2012-05-21 22:35:34,819 - AutoSampler-startRHX - DEBUG - setMotorXToZero
-2012-05-21 22:35:38,862 - AutoSampler-startRHX - DEBUG - setMotorYToZero
-2012-05-21 22:38:47,007 - AutoSampler-startRHX - DEBUG - updateRunPostFire( 1,CPL,postfire,253,550,5,5,25,05-20-12 15:43:00,1,5 )
