@@ -506,6 +506,7 @@ def setup():
 
    (v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity,
       d_dateTimeFiring ,i_durationOfFiring,i_temperatureOfFiring, v_operatorName) =DataReadWrite.getRunInfo(1)
+
    NUMBEROFSAMPLES.set(i_numberOfSamples)
    INITIALS.set(v_operatorName)
    LOCATION.set(v_locationCode)
