@@ -1,0 +1,2 @@
+2012-11-15 14:28:03,233 - weighApp - DEBUG - insert run
+2012-11-15 14:28:03,236 - weighApp - DEBUG - insert into tblRun (v_operatorName,d_datetime,i_numberOfSamples,v_locationCode, v_description,f_locationTemperature) VALUES (CPL,2012-11-15 14:28:03.234000,3,LMV,Belle Meadey,25.000000)

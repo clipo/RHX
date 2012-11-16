@@ -1,0 +1,7 @@
+;Mp2Arm2.Dll,Gripper, 1536
+;Mp2XYVZZZZ.Dll,Four tip arm, 256, 768, 1024
+;Mp2XYVZZZZ.Dll,Eight tip arm, 256, 768, 1024, 1280, 1
+;Mp2BC.Dll,Bar Code Scanner, 512
+;PCBInstalled
+;Mp2XYVZZZZ.Dll,Fixed eight tip arm, 256, 768, , 6
+;Mp2MCArm.dll,MultiChannel arm, 256, 1024, 1280, 1

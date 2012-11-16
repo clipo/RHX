@@ -1,0 +1,11 @@
+2012-05-23 11:36:14,663 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-05-23 11:36:27,732 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-05-23 11:37:26,555 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-05-23 11:37:33,946 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-05-23 11:37:53,051 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-05-23 11:40:07,515 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-05-23 11:40:13,631 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-05-23 11:40:27,857 - AutoSampler-startRHX - DEBUG - Now running postFire function
+2012-05-23 11:40:27,885 - AutoSampler-startRHX - DEBUG - setMotorXToZero
+2012-05-23 11:40:31,931 - AutoSampler-startRHX - DEBUG - setMotorYToZero
+2012-05-23 11:42:30,186 - AutoSampler-startRHX - DEBUG - updateRunPostFire( 1,CPL,postfire,1033,550,30,30,20,05-23-12 10:23:00,1,5 )

@@ -1,0 +1,116 @@
+2012-10-04 21:04:09,440 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:09,440 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:15,723 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:15,723 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:25,142 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:25,144 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:31,680 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:31,680 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:38,609 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:38,609 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:45,171 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:45,171 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 21:04:56,246 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:04:56,246 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:05:06,596 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:05:06,596 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 10000
+2012-10-04 21:05:10,811 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:05:10,811 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 10000
+2012-10-04 21:06:37,690 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-04 21:09:12,319 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 21:09:19,303 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:09:19,303 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:09:23,572 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:09:23,572 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:09:52,842 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-04 21:10:53,994 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 21:10:58,062 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:10:58,062 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:11:01,634 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:11:01,634 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:11:15,615 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-04 21:13:07,404 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:13:07,405 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 60000
+2012-10-04 21:13:16,963 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:13:16,963 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 60000
+2012-10-04 21:13:32,082 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:13:32,082 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 100000
+2012-10-04 21:13:43,309 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:13:43,311 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 100000
+2012-10-04 21:13:53,805 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:13:53,805 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 100000
+2012-10-04 21:14:05,201 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:05,201 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 100000
+2012-10-04 21:14:24,605 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:24,607 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 50000
+2012-10-04 21:14:31,967 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:31,967 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 50000
+2012-10-04 21:14:39,289 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:39,289 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 50000
+2012-10-04 21:14:46,529 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:46,529 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 50000
+2012-10-04 21:14:54,003 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:14:54,003 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 50000
+2012-10-04 21:15:25,282 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 1000
+2012-10-04 21:15:38,188 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 1000
+2012-10-04 21:15:42,397 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 1000
+2012-10-04 21:15:52,591 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 1000
+2012-10-04 21:15:57,898 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 1000
+2012-10-04 21:16:09,503 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 1000
+2012-10-04 21:16:38,269 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:16:38,269 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:16:44,259 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:16:44,259 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:16:53,743 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:16:53,743 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:17:12,398 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:17:12,398 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 21:17:56,710 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 21:18:02,022 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-04 21:20:09,157 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:20:09,158 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 820000
+2012-10-04 21:21:18,601 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 21:21:24,776 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-04 21:28:27,676 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-10-04 21:32:17,645 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:32:17,647 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:32:37,546 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:32:37,546 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:32:52,799 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:32:52,799 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:32:59,815 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:32:59,815 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:33:06,335 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:06,335 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:33:13,680 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:13,680 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:33:23,563 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:23,563 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:33:29,727 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:29,729 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 28000
+2012-10-04 21:33:41,872 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:41,874 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:33:47,105 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:47,105 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:33:51,979 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:33:51,979 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:34:06,944 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 1000
+2012-10-04 21:34:10,247 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 1000
+2012-10-04 21:34:15,338 - AutoSampler-startRHX - DEBUG - bumpZMotorUp
+2012-10-04 21:34:15,338 - AutoSampler-startRHX - DEBUG - bumpZMotorUp: 30000
+2012-10-04 21:34:20,809 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 1000
+2012-10-04 21:34:25,062 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 1000
+2012-10-04 21:34:37,392 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:34:37,392 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:34:42,737 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:34:42,739 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:34:47,631 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:34:47,631 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:34:52,934 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 21:34:52,934 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 30000
+2012-10-04 21:35:34,663 - AutoSampler-startRHX - DEBUG - moveArmToPosition: 360000
+2012-10-04 21:35:46,365 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 21:35:54,484 - AutoSampler-startRHX - DEBUG - moveArmToPosition: 350000
+2012-10-04 21:36:02,039 - AutoSampler-startRHX - DEBUG - moveArmToPosition: 340000
+2012-10-05 12:01:37,908 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 5
+2012-10-05 12:03:14,861 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 1

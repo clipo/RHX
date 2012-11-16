@@ -1,0 +1,9 @@
+2012-10-26 19:33:43,411 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-26 19:33:43,453 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00003  g
+
+2012-10-26 19:33:43,453 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-10-26 19:33:43,453 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00003  g
+--Unstable
+2012-10-26 19:33:43,453 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00003
+2012-10-26 19:33:43,453 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-26 19:33:44,454 - AutoSampler-DataReadWrite - DEBUG - instant read: 

@@ -1,0 +1,60 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\GRIPPER]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\GRIPPER\InstrumentLevel]
+"EmulateHardware"="false"
+"BasePath"="D:\\GRIPPER"
+"CommonConfigFile"="\\Data\\CommonConfig\\CommonConfig.stg"
+"InstrumentConfigFile"="\\Data\\InstrumentConfig\\InstrumentConfig.stg"
+"Serial Number"="GRIPPER_???"
+;"CalibrationParameterFile"="\\Data\\CommonConfig\\CalibrationParameters.ini"
+;"DetectionModeConfigFile"="\\Data\\CommonConfig\\DetectionModes.ini"
+;"StackerInstalled"="1"
+;"BarCodeReaderInstalled"="1"
+;"TemperatureControlInstalled"="1"
+;"HighDensityPlateOptionInstalled"="1"
+;"DM0"="1"
+;"DM1"="1"
+;"DM2"="1"
+;"DM3"="1"
+;"DM4"="1"
+;"DM5"="1"
+;"DM6"="1"
+;"DM7"="1"
+
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Gripper\InstrumentLevel\UDBGripperBoard]
+;"Name"="Gripper"
+;"ID"=dword:00000440
+;"FirmwareFile"="D:\\GRIPPER\\gripper.i0"
+;"FPGAFile0"="D:\\GRIPPER\\mc.mcs"
+;"FPGAFile1"="D:\\GRIPPER\\mc.mcs"
+;"FPGAFile2"=""
+;"FPGAFile3"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\UDB\GripperUDB]
+"Name"="GripperUDB"
+"ID"=dword:00000440
+"FirmwareFile"="D:\\GRIPPER\\gripper.i0"
+"FPGAFile0"="D:\\GRIPPER\\mc.mcs"
+"FPGAFile1"="D:\\GRIPPER\\mc.mcs"
+"FPGAFile2"=""
+"FPGAFile3"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Proof\1.00.001]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Proof\Components]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Proof\Components\PrfErrorDLL]
+"MsgDLL"="D:\\OpusDevelopment\\Proof\\bin\\PrfError.dll"
+"Source"="PrfErrorDLL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Proof\Components\PrfErrorMessages]
+"MsgDLL"="D:\\OpusDevelopment\\Proof\\bin\\PrfErrorMessages.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Packard Instrument Company\Proof\Components\ProofReports]
+"MsgDLL"="D:\\OpusDevelopment\\Proof\\bin\\ProofReports.dll"
+"Source"="ProofReports"
+
+

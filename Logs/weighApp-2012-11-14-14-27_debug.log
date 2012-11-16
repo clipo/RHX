@@ -1,0 +1,7 @@
+2012-11-14 14:27:33,148 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-14 14:27:33,148 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-14 14:27:33,164 - weighApp - DEBUG - select i_numberOfSamples, v_operatorName, v_locationCode,v_description,f_locationTemperature, i_temperatureOfFiring, i_durationOfFiring from tblRun
+2012-11-14 14:27:34,599 - weighApp - DEBUG - update tblRun set i_numberOfSamples=3, v_operatorName=CPL, v_locationCode=LMV,v_description=Belle Meade,f_locationTemperature=16.66 where i_RunID=1
+2012-11-14 14:27:34,834 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-14 14:27:42,415 - weighApp - DEBUG - Now on crucible: 1
+2012-11-14 14:27:44,365 - weighApp - DEBUG - select f_emptyWeightAverage, f_emptyWeightStdDev from tblCrucible where i_runID=1 and i_positionNumber=1

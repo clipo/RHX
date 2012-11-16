@@ -1,0 +1,3 @@
+2012-11-14 14:51:40,092 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-14 14:51:40,092 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-14 14:51:40,092 - weighApp - DEBUG - select max(i_runID) as max from tblRun

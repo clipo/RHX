@@ -1,0 +1,16 @@
+2012-11-09 22:02:12,894 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-09 22:02:12,931 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00008  g
+
+2012-11-09 22:02:12,931 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-09 22:02:12,931 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00008  g
+--Stable
+2012-11-09 22:02:12,931 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00008
+2012-11-09 22:02:13,933 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-09 22:02:24,394 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-09 22:02:24,436 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00008  g
+
+2012-11-09 22:02:24,436 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-09 22:02:24,436 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00008  g
+--Stable
+2012-11-09 22:02:24,436 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00008
+2012-11-09 22:02:25,437 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1

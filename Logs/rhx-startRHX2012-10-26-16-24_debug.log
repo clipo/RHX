@@ -1,0 +1,17 @@
+2012-10-26 16:24:53,401 - AutoSampler-startRHX - DEBUG - turnLightOn
+2012-10-26 16:25:05,739 - AutoSampler-startRHX - DEBUG - turnLightOn
+2012-10-26 16:25:14,158 - AutoSampler-startRHX - DEBUG - turnLightOn
+2012-10-26 16:26:47,469 - AutoSampler-startRHX - DEBUG - turnLightOn
+2012-10-26 16:26:51,319 - AutoSampler-startRHX - DEBUG - turnLightOff
+2012-10-26 16:26:54,059 - AutoSampler-startRHX - DEBUG - turnLightOn
+2012-10-26 16:26:59,740 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-26 16:27:12,403 - AutoSampler-startRHX - DEBUG - setMotorXToZero
+2012-10-26 16:27:12,848 - AutoSampler-startRHX - DEBUG - setMotorYToZero
+2012-10-26 16:27:29,059 - AutoSampler-startRHX - DEBUG - go_initialize: initialize function running. pre-weigh crucibles
+2012-10-26 16:27:29,059 - AutoSampler-startRHX - DEBUG - XMotor: 0  YMotor: 0
+2012-10-26 16:27:29,059 - AutoSampler-startRHX - DEBUG - Set the current position of motors to zero ... 
+2012-10-26 16:27:29,088 - AutoSampler-startRHX - DEBUG - Now going to move and measure each of the crucibles... 
+2012-10-26 16:27:29,088 - AutoSampler-startRHX - DEBUG - xyzRobot.weighAllCrucibles(CPL,3,5,5,1)
+2012-10-26 17:05:11,500 - AutoSampler-startRHX - DEBUG - Initialize Crucibles: Done!   
+2012-10-26 17:23:55,490 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 2
+2012-10-26 17:24:40,398 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper

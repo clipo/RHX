@@ -1,0 +1,8 @@
+2012-10-15 14:21:49,405 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-15 14:22:03,082 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-15 14:22:15,960 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-15 14:23:16,431 - AutoSampler-startRHX - DEBUG - closeGripper: Close gripper
+2012-10-15 14:24:19,957 - AutoSampler-startRHX - DEBUG - bumpZMotorUp
+2012-10-15 14:24:19,957 - AutoSampler-startRHX - DEBUG - bumpZMotorUp: 5000
+2012-10-15 14:24:27,753 - AutoSampler-startRHX - DEBUG - bumpZMotorUp
+2012-10-15 14:24:27,753 - AutoSampler-startRHX - DEBUG - bumpZMotorUp: 500090

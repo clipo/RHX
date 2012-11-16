@@ -1,0 +1,47 @@
+2012-10-25 17:57:48,534 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 19:49:33,364 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 19:49:33,377 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 19:52:13,240 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 19:52:14,308 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:47:17,601 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:47:17,608 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:48:49,826 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:48:49,829 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:52:45,495 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:52:45,515 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:55:56,807 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:55:56,810 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:56:02,396 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 20:57:43,409 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:57:43,412 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:57:49,124 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 20:58:52,712 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 20:58:52,714 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 20:58:58,244 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:02:00,179 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:02:00,182 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:02:05,832 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:04:27,357 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:04:27,360 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:04:33,023 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:07:13,460 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:07:13,463 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:07:19,082 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:16:19,375 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:16:19,378 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:16:25,083 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:18:11,071 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:18:11,074 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:18:16,611 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:20:00,590 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:20:00,592 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:20:06,125 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:21:04,438 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:21:04,440 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:21:09,985 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:24:05,226 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:24:05,229 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:24:13,431 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-25 21:24:44,950 - rhxAnalyze-Combined - DEBUG - select i_numberOfSamples from tblRun
+2012-10-25 21:24:44,952 - rhxAnalyze-Combined - DEBUG - select v_operatorName, v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_endOfFiring,i_durationOfFiring from tblRun where i_runID = 1
+2012-10-25 21:24:50,499 - rhxAnalyze-Combined - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 

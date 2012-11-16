@@ -1,0 +1,3 @@
+2012-11-15 12:13:12,450 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-15 12:13:12,453 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-15 12:13:12,459 - weighApp - DEBUG - select i_numberOfSamples, v_operatorName, v_locationCode,v_description,f_locationTemperature, i_temperatureOfFiring, d_dateTimeFiring, i_durationOfFiring from tblRun

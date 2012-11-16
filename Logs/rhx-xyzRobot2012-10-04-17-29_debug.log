@@ -1,0 +1,295 @@
+2012-10-04 17:29:32,188 - AutoSampler-xyzRobot - DEBUG - Waiting for Arm to attach....
+2012-10-04 17:29:32,331 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for xsteppers...
+2012-10-04 17:29:32,331 - AutoSampler-xyzRobot - DEBUG - Waiting for ystepper motors to attach....
+2012-10-04 17:29:32,351 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for ysteppers...
+2012-10-04 17:29:32,351 - AutoSampler-xyzRobot - DEBUG - Waiting for ystepper motors to attach....
+2012-10-04 17:29:32,371 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for zsteppers...
+2012-10-04 17:29:32,374 - AutoSampler-xyzRobot - DEBUG - Waiting for zstepper motors to attach....
+2012-10-04 17:29:32,394 - AutoSampler-xyzRobot - DEBUG - Setting Default values for the motor velocity limits
+2012-10-04 17:29:32,394 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 0 to PHIDGET_SERVO_HITEC_HS422
+2012-10-04 17:29:32,395 - AutoSampler-xyzRobot - DEBUG - Create an interfacekit object
+2012-10-04 17:29:32,397 - AutoSampler-xyzRobot - DEBUG - Opening phidget (sensor) object....
+2012-10-04 17:29:32,397 - AutoSampler-xyzRobot - DEBUG - Waiting for attach....
+2012-10-04 17:29:32,499 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:29:32,500 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:29:32,500 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:29:33,539 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:29:33,539 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:29:33,539 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:29:40,196 - AutoSampler-xyzRobot - DEBUG - goToOutsideBalanceFromOutside
+2012-10-04 17:29:41,226 - AutoSampler-xyzRobot - DEBUG - first move the y axis to 130000
+2012-10-04 17:29:57,289 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:29:57,289 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:29:57,289 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:29:57,289 - AutoSampler-xyzRobot - DEBUG - now located at x: 0 y: 130000 z: 0
+2012-10-04 17:29:57,289 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:29:57,290 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:29:57,290 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:29:57,306 - AutoSampler-xyzRobot - DEBUG - now move the x-asis to 29000
+2012-10-04 17:30:01,267 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:01,267 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:01,267 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:01,269 - AutoSampler-xyzRobot - DEBUG - now located at x: 29000 y: 130000 z: 0
+2012-10-04 17:30:01,269 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:01,269 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:01,269 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:03,282 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:30:03,282 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:30:03,282 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:30:19,788 - AutoSampler-xyzRobot - DEBUG - goToOutsideBalanceFromOutside
+2012-10-04 17:30:20,818 - AutoSampler-xyzRobot - DEBUG - first move the y axis to 130000
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - now located at x: 29000 y: 130000 z: 0
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:23,832 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:23,845 - AutoSampler-xyzRobot - DEBUG - now move the x-asis to 29000
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - now located at x: 29000 y: 130000 z: 0
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:24,861 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:26,885 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:30:26,887 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:30:26,887 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:30:27,933 - AutoSampler-xyzRobot - DEBUG - goToInsideBalanceFromOutside
+2012-10-04 17:30:28,967 - AutoSampler-xyzRobot - DEBUG - now moving x motor to position: 31000
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - now located at x: 31000 y: 130000 z: 0
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:33,220 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:33,233 - AutoSampler-xyzRobot - DEBUG - adjusting Y position to 160000
+2012-10-04 17:30:38,289 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:38,289 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:38,289 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:38,289 - AutoSampler-xyzRobot - DEBUG - now located at x: 31000 y: 160000 z: 0
+2012-10-04 17:30:38,290 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:30:38,290 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:30:38,290 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:30:39,315 - AutoSampler-xyzRobot - DEBUG - Now will refine the location based on difference in encoder locations
+2012-10-04 17:30:39,316 - AutoSampler-xyzRobot - DEBUG - Completed refinement
+2012-10-04 17:30:39,318 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:30:39,318 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:30:39,319 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:31:01,697 - AutoSampler-xyzRobot - DEBUG - lowerArmToBalance
+2012-10-04 17:31:01,698 - AutoSampler-xyzRobot - DEBUG - Now move to Z: 695000 
+2012-10-04 17:31:50,200 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:31:50,200 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:31:50,200 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:15,877 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-10-04 17:32:15,877 - AutoSampler-xyzRobot - DEBUG - start here: 31000
+2012-10-04 17:32:17,142 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:17,144 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:17,144 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:21,770 - AutoSampler-xyzRobot - DEBUG - bumpXmotorUp
+2012-10-04 17:32:23,023 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:23,023 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:23,023 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:31,542 - AutoSampler-xyzRobot - DEBUG - bumpYMotorRight
+2012-10-04 17:32:32,796 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:32,796 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:32,796 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:46,664 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:32:46,664 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:32:46,690 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:46,690 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:46,691 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:46,778 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:46,778 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:46,778 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:32:52,173 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:32:53,559 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:32:53,559 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:32:53,559 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:03,352 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:05,413 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:05,414 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:05,414 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:07,589 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:09,644 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:09,644 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:09,644 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:11,776 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:13,834 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:13,835 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:13,835 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:15,801 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:17,858 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:17,858 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:17,858 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:29,861 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:31,585 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:31,585 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:31,585 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:33,926 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:35,648 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:35,648 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:35,648 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:39,394 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:41,119 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:41,119 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:41,119 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:33:46,987 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:33:48,711 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:33:48,713 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:33:48,713 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:34:05,295 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:34:05,296 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:34:05,296 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:34:12,950 - AutoSampler-xyzRobot - DEBUG - raiseArmToTop
+2012-10-04 17:34:12,950 - AutoSampler-xyzRobot - DEBUG - Now move to Z: 0 
+2012-10-04 17:35:08,469 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:35:08,470 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:35:08,470 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:35:58,723 - AutoSampler-xyzRobot - DEBUG - goHome:  Now going to the home position.
+2012-10-04 17:36:22,227 - AutoSampler-xyzRobot - DEBUG - Update the coordinates of the arm in terms of the motor
+2012-10-04 17:36:22,227 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:36:22,227 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:36:22,227 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:36:22,344 - AutoSampler-xyzRobot - DEBUG - Reset the coordinates of the home position
+2012-10-04 17:36:22,344 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:36:22,344 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:36:22,344 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:36:22,354 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:36:22,355 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:36:22,355 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:36:23,357 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:36:23,358 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:36:23,358 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:36:23,394 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:36:23,394 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:36:23,394 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:15,273 - AutoSampler-xyzRobot - DEBUG - goToSamplePosition( 1) 
+2012-10-04 17:37:15,273 - AutoSampler-xyzRobot - DEBUG - goHome:  Now going to the home position.
+2012-10-04 17:37:19,776 - AutoSampler-xyzRobot - DEBUG - Update the coordinates of the arm in terms of the motor
+2012-10-04 17:37:19,776 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:37:19,776 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:37:19,776 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:19,792 - AutoSampler-xyzRobot - DEBUG - Reset the coordinates of the home position
+2012-10-04 17:37:19,792 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:37:19,792 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:37:19,792 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - Now we are home... We are now going to go to sample position: 1
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - We are now at x: 0 y: 0
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - Going to X: 0 and Y: 0
+2012-10-04 17:37:19,904 - AutoSampler-xyzRobot - DEBUG - Now move to X:  0
+2012-10-04 17:37:21,921 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:37:21,921 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:37:21,921 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:21,930 - AutoSampler-xyzRobot - DEBUG - sleep to make sure this is complete..
+2012-10-04 17:37:23,930 - AutoSampler-xyzRobot - DEBUG - Now move to Y: 0 
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - We are now at x: 0 and y: 0 and z: 0
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-10-04 17:37:25,947 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:25,963 - AutoSampler-xyzRobot - DEBUG - Since we are coming from the start window (startwindow=1), then do not do refinement
+2012-10-04 17:37:25,963 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:37:25,966 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:37:25,967 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:37:26,992 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:37:26,992 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:37:26,992 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:28,915 - AutoSampler-xyzRobot - DEBUG - Lowering arm to sample
+2012-10-04 17:37:28,917 - AutoSampler-xyzRobot - DEBUG - Now move to Z: 0 
+2012-10-04 17:37:31,934 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:37:31,934 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:37:31,934 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:37:32,963 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:37:32,963 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:37:32,963 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:37:43,858 - AutoSampler-xyzRobot - DEBUG - Lowering arm to sample
+2012-10-04 17:37:43,861 - AutoSampler-xyzRobot - DEBUG - Now move to Z: 0 
+2012-10-04 17:37:46,881 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:37:46,881 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:37:46,881 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:37:47,911 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:37:47,913 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:37:47,913 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:38:37,779 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:38:41,512 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:38:41,512 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:38:41,512 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:38:42,555 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:38:42,555 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:38:42,555 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:38:44,459 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:38:48,190 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:38:48,190 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:38:48,190 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:38:49,233 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:38:49,233 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:38:49,233 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:38:55,979 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:38:59,703 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:38:59,703 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:38:59,703 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:38:59,782 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:38:59,782 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:38:59,782 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:02,108 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:39:05,854 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:05,854 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:05,854 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:06,894 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:06,895 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:06,895 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:09,023 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:39:12,747 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:12,749 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:12,749 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:12,826 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:12,828 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:12,828 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:15,006 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:39:18,730 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:18,732 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:18,732 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:18,788 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:18,788 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:18,788 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:20,530 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:39:24,257 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:24,259 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:24,259 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:24,436 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:24,436 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:24,436 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:25,651 - AutoSampler-xyzRobot - DEBUG - bumpZMotorDown
+2012-10-04 17:39:29,378 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:29,380 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:29,380 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:29,434 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:29,434 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:29,434 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:39:37,953 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:39:37,956 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:39:37,956 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:39:38,999 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:39:39,000 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:39:39,000 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 17:40:02,951 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 17:40:02,951 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 17:40:02,951 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 17:40:03,997 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 17:40:03,997 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 17:40:03,997 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-10-04 20:25:18,921 - AutoSampler-xyzRobot - DEBUG - raiseArmToTop
+2012-10-04 20:25:18,921 - AutoSampler-xyzRobot - DEBUG - Now move to Z: 0 
+2012-10-04 20:25:42,361 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-10-04 20:25:42,361 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-10-04 20:25:42,361 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-10-04 20:25:43,400 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-10-04 20:25:43,401 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-10-04 20:25:43,401 - AutoSampler-xyzRobot - DEBUG - getZPosition

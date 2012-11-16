@@ -1,0 +1,272 @@
+2012-05-21 17:49:29,496 - AutoSampler-xyzRobot - DEBUG - Waiting for Arm to attach....
+2012-05-21 17:49:29,586 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for steppers...
+2012-05-21 17:49:29,586 - AutoSampler-xyzRobot - DEBUG - Waiting for stepper motors to attach....
+2012-05-21 17:49:29,607 - AutoSampler-xyzRobot - DEBUG - Setting Default values for the motor velocity limits
+2012-05-21 17:49:29,607 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 0 to PHIDGET_SERVO_FIRGELLI_L12_100_100_06_R 
+2012-05-21 17:49:29,612 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 1 to PHIDGET_SERVO_HITEC_HS422
+2012-05-21 17:49:29,618 - AutoSampler-xyzRobot - DEBUG - Create an interfacekit object
+2012-05-21 17:49:29,618 - AutoSampler-xyzRobot - DEBUG - Opening phidget (sensor) object....
+2012-05-21 17:49:29,618 - AutoSampler-xyzRobot - DEBUG - Waiting for attach....
+2012-05-21 17:49:29,743 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:49:29,743 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:49:30,973 - AutoSampler-xyzRobot - DEBUG - openGripper:  now open gripper
+2012-05-21 17:49:34,023 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:49:34,035 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:49:35,082 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:49:35,084 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:49:36,122 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:49:36,124 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:49:42,588 - AutoSampler-xyzRobot - DEBUG - goHome:  Now going to the home position.
+2012-05-21 17:50:13,102 - AutoSampler-xyzRobot - DEBUG - Update the coordinates of the arm in terms of the motor
+2012-05-21 17:50:13,104 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:50:13,104 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:50:13,112 - AutoSampler-xyzRobot - DEBUG - Reset the coordinates of the home position
+2012-05-21 17:50:13,114 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-21 17:50:13,115 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-21 17:50:13,115 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-21 17:50:14,115 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-21 17:50:14,115 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-21 17:50:14,115 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-21 17:50:17,115 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:50:17,117 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:50:18,157 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-21 17:50:18,157 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-21 17:50:18,157 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-21 17:50:19,157 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-21 17:50:19,157 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-21 17:50:19,157 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-21 17:50:35,414 - AutoSampler-xyzRobot - DEBUG - goToOutsideBalanceFromOutside
+2012-05-21 17:50:36,447 - AutoSampler-xyzRobot - DEBUG - first move the y axis to 800
+2012-05-21 17:50:47,571 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:50:47,571 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:50:47,571 - AutoSampler-xyzRobot - DEBUG - now located at x: 0 y: 800
+2012-05-21 17:50:47,571 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:50:47,572 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:50:47,585 - AutoSampler-xyzRobot - DEBUG - now move the x-asis to -1800
+2012-05-21 17:51:00,762 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:00,762 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:00,762 - AutoSampler-xyzRobot - DEBUG - now located at x: -1800 y: 800
+2012-05-21 17:51:00,763 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:00,763 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:03,835 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-21 17:51:03,838 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-21 17:51:03,948 - AutoSampler-xyzRobot - DEBUG - goToInsideBalanceFromOutside
+2012-05-21 17:51:04,982 - AutoSampler-xyzRobot - DEBUG - now moving x motor to position: -3200
+2012-05-21 17:51:18,460 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:18,460 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:18,460 - AutoSampler-xyzRobot - DEBUG - now located at x: -3200 y: 800
+2012-05-21 17:51:18,460 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:18,460 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:18,476 - AutoSampler-xyzRobot - DEBUG - adjusting Y position to 740
+2012-05-21 17:51:21,131 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:21,131 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:21,131 - AutoSampler-xyzRobot - DEBUG - now located at x: -3200 y: 740
+2012-05-21 17:51:21,131 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-05-21 17:51:21,131 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-05-21 17:51:22,147 - AutoSampler-xyzRobot - DEBUG - Now will refine the location based on difference in encoder locations
+2012-05-21 17:51:22,147 - AutoSampler-xyzRobot - DEBUG - refine the position over the crucible at the balance
+2012-05-21 17:51:22,147 - AutoSampler-xyzRobot - DEBUG - We are now at x: 4499 y: 2679
+2012-05-21 17:51:22,148 - AutoSampler-xyzRobot - DEBUG - The balance is at x: 4472 y: 2574
+2012-05-21 17:51:22,148 - AutoSampler-xyzRobot - DEBUG - The difference is x: 27 y: 105
+2012-05-21 17:51:22,148 - AutoSampler-xyzRobot - DEBUG - now moving x to get to 27
+2012-05-21 17:51:22,148 - AutoSampler-xyzRobot - DEBUG - first check when xdiff is greater than zero. xdiff: 27 
+2012-05-21 17:51:22,148 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:22,151 - AutoSampler-xyzRobot - DEBUG - start here: -3200
+2012-05-21 17:51:22,151 - AutoSampler-xyzRobot - DEBUG - move to here: -3195
+2012-05-21 17:51:23,234 - AutoSampler-xyzRobot - DEBUG - now moving x from 4491 to 4472
+2012-05-21 17:51:24,234 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:24,234 - AutoSampler-xyzRobot - DEBUG - start here: -3195
+2012-05-21 17:51:24,236 - AutoSampler-xyzRobot - DEBUG - move to here: -3190
+2012-05-21 17:51:25,331 - AutoSampler-xyzRobot - DEBUG - now moving x from 4484 to 4472
+2012-05-21 17:51:26,331 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:26,331 - AutoSampler-xyzRobot - DEBUG - start here: -3190
+2012-05-21 17:51:26,332 - AutoSampler-xyzRobot - DEBUG - move to here: -3185
+2012-05-21 17:51:27,427 - AutoSampler-xyzRobot - DEBUG - now moving x from 4476 to 4472
+2012-05-21 17:51:28,428 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:28,430 - AutoSampler-xyzRobot - DEBUG - start here: -3185
+2012-05-21 17:51:28,430 - AutoSampler-xyzRobot - DEBUG - move to here: -3180
+2012-05-21 17:51:29,523 - AutoSampler-xyzRobot - DEBUG - now moving x from 4468 to 4472
+2012-05-21 17:51:30,526 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:30,528 - AutoSampler-xyzRobot - DEBUG - start here: -3180
+2012-05-21 17:51:30,528 - AutoSampler-xyzRobot - DEBUG - move to here: -3175
+2012-05-21 17:51:31,618 - AutoSampler-xyzRobot - DEBUG - now moving x from 4461 to 4472
+2012-05-21 17:51:32,618 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:32,618 - AutoSampler-xyzRobot - DEBUG - start here: -3175
+2012-05-21 17:51:32,618 - AutoSampler-xyzRobot - DEBUG - move to here: -3170
+2012-05-21 17:51:33,716 - AutoSampler-xyzRobot - DEBUG - now moving x from 4454 to 4472
+2012-05-21 17:51:34,716 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:34,716 - AutoSampler-xyzRobot - DEBUG - start here: -3170
+2012-05-21 17:51:34,716 - AutoSampler-xyzRobot - DEBUG - move to here: -3165
+2012-05-21 17:51:35,812 - AutoSampler-xyzRobot - DEBUG - now moving x from 4447 to 4472
+2012-05-21 17:51:36,812 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:36,812 - AutoSampler-xyzRobot - DEBUG - start here: -3165
+2012-05-21 17:51:36,812 - AutoSampler-xyzRobot - DEBUG - move to here: -3160
+2012-05-21 17:51:37,905 - AutoSampler-xyzRobot - DEBUG - now moving x from 4439 to 4472
+2012-05-21 17:51:38,905 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:38,905 - AutoSampler-xyzRobot - DEBUG - start here: -3160
+2012-05-21 17:51:38,905 - AutoSampler-xyzRobot - DEBUG - move to here: -3155
+2012-05-21 17:51:40,006 - AutoSampler-xyzRobot - DEBUG - now moving x from 4432 to 4472
+2012-05-21 17:51:41,006 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:41,006 - AutoSampler-xyzRobot - DEBUG - start here: -3155
+2012-05-21 17:51:41,006 - AutoSampler-xyzRobot - DEBUG - move to here: -3150
+2012-05-21 17:51:42,098 - AutoSampler-xyzRobot - DEBUG - now moving x from 4425 to 4472
+2012-05-21 17:51:43,098 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:43,098 - AutoSampler-xyzRobot - DEBUG - start here: -3150
+2012-05-21 17:51:43,098 - AutoSampler-xyzRobot - DEBUG - move to here: -3145
+2012-05-21 17:51:44,194 - AutoSampler-xyzRobot - DEBUG - now moving x from 4418 to 4472
+2012-05-21 17:51:45,194 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:45,194 - AutoSampler-xyzRobot - DEBUG - start here: -3145
+2012-05-21 17:51:45,194 - AutoSampler-xyzRobot - DEBUG - move to here: -3140
+2012-05-21 17:51:46,273 - AutoSampler-xyzRobot - DEBUG - now moving x from 4410 to 4472
+2012-05-21 17:51:47,275 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:47,275 - AutoSampler-xyzRobot - DEBUG - start here: -3140
+2012-05-21 17:51:47,276 - AutoSampler-xyzRobot - DEBUG - move to here: -3135
+2012-05-21 17:51:48,369 - AutoSampler-xyzRobot - DEBUG - now moving x from 4403 to 4472
+2012-05-21 17:51:49,369 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:49,369 - AutoSampler-xyzRobot - DEBUG - start here: -3135
+2012-05-21 17:51:49,369 - AutoSampler-xyzRobot - DEBUG - move to here: -3130
+2012-05-21 17:51:50,466 - AutoSampler-xyzRobot - DEBUG - now moving x from 4396 to 4472
+2012-05-21 17:51:51,466 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:51,466 - AutoSampler-xyzRobot - DEBUG - start here: -3130
+2012-05-21 17:51:51,466 - AutoSampler-xyzRobot - DEBUG - move to here: -3125
+2012-05-21 17:51:52,559 - AutoSampler-xyzRobot - DEBUG - now moving x from 4389 to 4472
+2012-05-21 17:51:53,565 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:53,566 - AutoSampler-xyzRobot - DEBUG - start here: -3125
+2012-05-21 17:51:53,566 - AutoSampler-xyzRobot - DEBUG - move to here: -3120
+2012-05-21 17:51:54,655 - AutoSampler-xyzRobot - DEBUG - now moving x from 4381 to 4472
+2012-05-21 17:51:55,655 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:55,655 - AutoSampler-xyzRobot - DEBUG - start here: -3120
+2012-05-21 17:51:55,655 - AutoSampler-xyzRobot - DEBUG - move to here: -3115
+2012-05-21 17:51:56,752 - AutoSampler-xyzRobot - DEBUG - now moving x from 4374 to 4472
+2012-05-21 17:51:57,752 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:57,752 - AutoSampler-xyzRobot - DEBUG - start here: -3115
+2012-05-21 17:51:57,752 - AutoSampler-xyzRobot - DEBUG - move to here: -3110
+2012-05-21 17:51:58,848 - AutoSampler-xyzRobot - DEBUG - now moving x from 4367 to 4472
+2012-05-21 17:51:59,848 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:51:59,848 - AutoSampler-xyzRobot - DEBUG - start here: -3110
+2012-05-21 17:51:59,848 - AutoSampler-xyzRobot - DEBUG - move to here: -3105
+2012-05-21 17:52:00,944 - AutoSampler-xyzRobot - DEBUG - now moving x from 4359 to 4472
+2012-05-21 17:52:01,944 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:01,946 - AutoSampler-xyzRobot - DEBUG - start here: -3105
+2012-05-21 17:52:01,946 - AutoSampler-xyzRobot - DEBUG - move to here: -3100
+2012-05-21 17:52:03,046 - AutoSampler-xyzRobot - DEBUG - now moving x from 4352 to 4472
+2012-05-21 17:52:04,046 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:04,046 - AutoSampler-xyzRobot - DEBUG - start here: -3100
+2012-05-21 17:52:04,046 - AutoSampler-xyzRobot - DEBUG - move to here: -3095
+2012-05-21 17:52:05,137 - AutoSampler-xyzRobot - DEBUG - now moving x from 4345 to 4472
+2012-05-21 17:52:06,144 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:06,145 - AutoSampler-xyzRobot - DEBUG - start here: -3095
+2012-05-21 17:52:06,145 - AutoSampler-xyzRobot - DEBUG - move to here: -3090
+2012-05-21 17:52:07,232 - AutoSampler-xyzRobot - DEBUG - now moving x from 4338 to 4472
+2012-05-21 17:52:08,232 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:08,232 - AutoSampler-xyzRobot - DEBUG - start here: -3090
+2012-05-21 17:52:08,232 - AutoSampler-xyzRobot - DEBUG - move to here: -3085
+2012-05-21 17:52:09,326 - AutoSampler-xyzRobot - DEBUG - now moving x from 4331 to 4472
+2012-05-21 17:52:10,326 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:10,326 - AutoSampler-xyzRobot - DEBUG - start here: -3085
+2012-05-21 17:52:10,326 - AutoSampler-xyzRobot - DEBUG - move to here: -3080
+2012-05-21 17:52:11,421 - AutoSampler-xyzRobot - DEBUG - now moving x from 4323 to 4472
+2012-05-21 17:52:12,423 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:12,423 - AutoSampler-xyzRobot - DEBUG - start here: -3080
+2012-05-21 17:52:12,424 - AutoSampler-xyzRobot - DEBUG - move to here: -3075
+2012-05-21 17:52:13,519 - AutoSampler-xyzRobot - DEBUG - now moving x from 4316 to 4472
+2012-05-21 17:52:14,519 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:14,519 - AutoSampler-xyzRobot - DEBUG - start here: -3075
+2012-05-21 17:52:14,519 - AutoSampler-xyzRobot - DEBUG - move to here: -3070
+2012-05-21 17:52:15,615 - AutoSampler-xyzRobot - DEBUG - now moving x from 4308 to 4472
+2012-05-21 17:52:16,618 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:16,618 - AutoSampler-xyzRobot - DEBUG - start here: -3070
+2012-05-21 17:52:16,618 - AutoSampler-xyzRobot - DEBUG - move to here: -3065
+2012-05-21 17:52:17,729 - AutoSampler-xyzRobot - DEBUG - now moving x from 4301 to 4472
+2012-05-21 17:52:18,730 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:18,730 - AutoSampler-xyzRobot - DEBUG - start here: -3065
+2012-05-21 17:52:18,730 - AutoSampler-xyzRobot - DEBUG - move to here: -3060
+2012-05-21 17:52:19,852 - AutoSampler-xyzRobot - DEBUG - now moving x from 4294 to 4472
+2012-05-21 17:52:20,878 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:20,878 - AutoSampler-xyzRobot - DEBUG - start here: -3060
+2012-05-21 17:52:20,878 - AutoSampler-xyzRobot - DEBUG - move to here: -3055
+2012-05-21 17:52:21,980 - AutoSampler-xyzRobot - DEBUG - now moving x from 4286 to 4472
+2012-05-21 17:52:22,983 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:22,983 - AutoSampler-xyzRobot - DEBUG - start here: -3055
+2012-05-21 17:52:22,983 - AutoSampler-xyzRobot - DEBUG - move to here: -3050
+2012-05-21 17:52:24,085 - AutoSampler-xyzRobot - DEBUG - now moving x from 4279 to 4472
+2012-05-21 17:52:25,088 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:25,088 - AutoSampler-xyzRobot - DEBUG - start here: -3050
+2012-05-21 17:52:25,088 - AutoSampler-xyzRobot - DEBUG - move to here: -3045
+2012-05-21 17:52:26,174 - AutoSampler-xyzRobot - DEBUG - now moving x from 4272 to 4472
+2012-05-21 17:52:27,186 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:27,187 - AutoSampler-xyzRobot - DEBUG - start here: -3045
+2012-05-21 17:52:27,187 - AutoSampler-xyzRobot - DEBUG - move to here: -3040
+2012-05-21 17:52:28,270 - AutoSampler-xyzRobot - DEBUG - now moving x from 4265 to 4472
+2012-05-21 17:52:29,270 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:29,270 - AutoSampler-xyzRobot - DEBUG - start here: -3040
+2012-05-21 17:52:29,270 - AutoSampler-xyzRobot - DEBUG - move to here: -3035
+2012-05-21 17:52:30,378 - AutoSampler-xyzRobot - DEBUG - now moving x from 4258 to 4472
+2012-05-21 17:52:31,378 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:31,378 - AutoSampler-xyzRobot - DEBUG - start here: -3035
+2012-05-21 17:52:31,380 - AutoSampler-xyzRobot - DEBUG - move to here: -3030
+2012-05-21 17:52:32,463 - AutoSampler-xyzRobot - DEBUG - now moving x from 4251 to 4472
+2012-05-21 17:52:33,463 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:33,463 - AutoSampler-xyzRobot - DEBUG - start here: -3030
+2012-05-21 17:52:33,463 - AutoSampler-xyzRobot - DEBUG - move to here: -3025
+2012-05-21 17:52:34,559 - AutoSampler-xyzRobot - DEBUG - now moving x from 4245 to 4472
+2012-05-21 17:52:35,601 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:35,601 - AutoSampler-xyzRobot - DEBUG - start here: -3025
+2012-05-21 17:52:35,601 - AutoSampler-xyzRobot - DEBUG - move to here: -3020
+2012-05-21 17:52:36,776 - AutoSampler-xyzRobot - DEBUG - now moving x from 4239 to 4472
+2012-05-21 17:52:37,868 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:37,868 - AutoSampler-xyzRobot - DEBUG - start here: -3020
+2012-05-21 17:52:37,868 - AutoSampler-xyzRobot - DEBUG - move to here: -3015
+2012-05-21 17:52:38,964 - AutoSampler-xyzRobot - DEBUG - now moving x from 4232 to 4472
+2012-05-21 17:52:40,058 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:40,058 - AutoSampler-xyzRobot - DEBUG - start here: -3015
+2012-05-21 17:52:40,058 - AutoSampler-xyzRobot - DEBUG - move to here: -3010
+2012-05-21 17:52:41,150 - AutoSampler-xyzRobot - DEBUG - now moving x from 4230 to 4472
+2012-05-21 17:52:42,151 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:42,151 - AutoSampler-xyzRobot - DEBUG - start here: -3010
+2012-05-21 17:52:42,151 - AutoSampler-xyzRobot - DEBUG - move to here: -3005
+2012-05-21 17:52:43,246 - AutoSampler-xyzRobot - DEBUG - now moving x from 4224 to 4472
+2012-05-21 17:52:44,246 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:44,246 - AutoSampler-xyzRobot - DEBUG - start here: -3005
+2012-05-21 17:52:44,246 - AutoSampler-xyzRobot - DEBUG - move to here: -3000
+2012-05-21 17:52:45,384 - AutoSampler-xyzRobot - DEBUG - now moving x from 4217 to 4472
+2012-05-21 17:52:46,384 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:46,384 - AutoSampler-xyzRobot - DEBUG - start here: -3000
+2012-05-21 17:52:46,384 - AutoSampler-xyzRobot - DEBUG - move to here: -2995
+2012-05-21 17:52:47,592 - AutoSampler-xyzRobot - DEBUG - now moving x from 4210 to 4472
+2012-05-21 17:52:48,625 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:48,625 - AutoSampler-xyzRobot - DEBUG - start here: -2995
+2012-05-21 17:52:48,625 - AutoSampler-xyzRobot - DEBUG - move to here: -2990
+2012-05-21 17:52:49,849 - AutoSampler-xyzRobot - DEBUG - now moving x from 4203 to 4472
+2012-05-21 17:52:50,849 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:50,851 - AutoSampler-xyzRobot - DEBUG - start here: -2990
+2012-05-21 17:52:50,851 - AutoSampler-xyzRobot - DEBUG - move to here: -2985
+2012-05-21 17:52:51,934 - AutoSampler-xyzRobot - DEBUG - now moving x from 4196 to 4472
+2012-05-21 17:52:52,934 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:52,936 - AutoSampler-xyzRobot - DEBUG - start here: -2985
+2012-05-21 17:52:52,936 - AutoSampler-xyzRobot - DEBUG - move to here: -2980
+2012-05-21 17:52:54,029 - AutoSampler-xyzRobot - DEBUG - now moving x from 4189 to 4472
+2012-05-21 17:52:55,029 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:55,032 - AutoSampler-xyzRobot - DEBUG - start here: -2980
+2012-05-21 17:52:55,036 - AutoSampler-xyzRobot - DEBUG - move to here: -2975
+2012-05-21 17:52:56,130 - AutoSampler-xyzRobot - DEBUG - now moving x from 4182 to 4472
+2012-05-21 17:52:57,130 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:57,130 - AutoSampler-xyzRobot - DEBUG - start here: -2975
+2012-05-21 17:52:57,130 - AutoSampler-xyzRobot - DEBUG - move to here: -2970
+2012-05-21 17:52:58,224 - AutoSampler-xyzRobot - DEBUG - now moving x from 4175 to 4472
+2012-05-21 17:52:59,224 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:52:59,224 - AutoSampler-xyzRobot - DEBUG - start here: -2970
+2012-05-21 17:52:59,224 - AutoSampler-xyzRobot - DEBUG - move to here: -2965
+2012-05-21 17:53:00,319 - AutoSampler-xyzRobot - DEBUG - now moving x from 4169 to 4472
+2012-05-21 17:53:01,319 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:53:01,319 - AutoSampler-xyzRobot - DEBUG - start here: -2965
+2012-05-21 17:53:01,319 - AutoSampler-xyzRobot - DEBUG - move to here: -2960
+2012-05-21 17:53:02,415 - AutoSampler-xyzRobot - DEBUG - now moving x from 4162 to 4472
+2012-05-21 17:53:03,417 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:53:03,417 - AutoSampler-xyzRobot - DEBUG - start here: -2960
+2012-05-21 17:53:03,417 - AutoSampler-xyzRobot - DEBUG - move to here: -2955
+2012-05-21 17:53:04,535 - AutoSampler-xyzRobot - DEBUG - now moving x from 4155 to 4472
+2012-05-21 17:53:05,549 - AutoSampler-xyzRobot - DEBUG - bumpXMotorDown
+2012-05-21 17:53:05,549 - AutoSampler-xyzRobot - DEBUG - start here: -2955
+2012-05-21 17:53:05,549 - AutoSampler-xyzRobot - DEBUG - move to here: -2950
+2012-05-21 17:53:06,644 - AutoSampler-xyzRobot - DEBUG - now moving x from 4149 to 4472

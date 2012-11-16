@@ -1,0 +1,18 @@
+#!wing
+#!version=4.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('communication.py'),
+                  loc('DataReadWrite.py'),
+                  loc('startRHX.py'),
+                  loc('testDataReadWrite.py'),
+                  loc('testSqliteLibrary.py'),
+                  loc('testStandardBalance.py'),
+                  loc('testTime.py'),
+                  loc('testWeighAllCrucibles.py'),
+                  loc('testWeighAllPostfire.py'),
+                  loc('testWeighAllPrefire.py'),
+                  loc('xyzRobot.py')]
+proj.file-type = 'shared'

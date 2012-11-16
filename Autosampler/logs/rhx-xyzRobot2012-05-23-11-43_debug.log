@@ -1,0 +1,104 @@
+2012-05-23 11:43:19,775 - AutoSampler-xyzRobot - DEBUG - Waiting for Arm to attach....
+2012-05-23 11:43:19,885 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for steppers...
+2012-05-23 11:43:19,885 - AutoSampler-xyzRobot - DEBUG - Waiting for stepper motors to attach....
+2012-05-23 11:43:19,915 - AutoSampler-xyzRobot - DEBUG - Setting Default values for the motor velocity limits
+2012-05-23 11:43:19,915 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 0 to PHIDGET_SERVO_FIRGELLI_L12_100_100_06_R 
+2012-05-23 11:43:19,915 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 1 to PHIDGET_SERVO_HITEC_HS422
+2012-05-23 11:43:19,928 - AutoSampler-xyzRobot - DEBUG - Create an interfacekit object
+2012-05-23 11:43:19,928 - AutoSampler-xyzRobot - DEBUG - Opening phidget (sensor) object....
+2012-05-23 11:43:19,928 - AutoSampler-xyzRobot - DEBUG - Waiting for attach....
+2012-05-23 11:43:20,082 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:20,084 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:21,128 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:21,128 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:21,128 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:22,130 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:22,131 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:22,131 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:23,388 - AutoSampler-xyzRobot - DEBUG - openGripper:  now open gripper
+2012-05-23 11:43:26,721 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:26,729 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:26,838 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:26,838 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:26,838 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:27,839 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:27,842 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:27,842 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:28,842 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:28,844 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:29,888 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:29,888 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:29,888 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:30,890 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:30,890 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:30,890 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:31,891 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:31,891 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:31,951 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:31,951 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:31,951 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:32,953 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:32,953 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:32,953 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:37,970 - AutoSampler-xyzRobot - DEBUG - closeGripper:  now close gripper
+2012-05-23 11:43:41,279 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:41,282 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:41,355 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:41,355 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:41,355 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:42,355 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:42,358 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:42,358 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:45,049 - AutoSampler-xyzRobot - DEBUG - openGripper:  now open gripper
+2012-05-23 11:43:48,381 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:48,384 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:49,427 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:49,427 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:49,427 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:50,430 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:50,430 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:50,431 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:43:55,273 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:43:55,275 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:43:55,325 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:43:55,326 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:43:55,326 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:43:56,326 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:43:56,326 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:43:56,328 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:45:48,474 - AutoSampler-xyzRobot - DEBUG - closeGripper:  now close gripper
+2012-05-23 11:45:51,805 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:45:51,812 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:45:51,878 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:45:51,878 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:45:51,880 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:45:52,880 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:45:52,880 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:45:52,880 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:45:55,575 - AutoSampler-xyzRobot - DEBUG - openGripper:  now open gripper
+2012-05-23 11:45:58,878 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:45:58,880 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:45:59,924 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:45:59,926 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:45:59,926 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:46:00,926 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:46:00,926 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:46:00,926 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:47:53,095 - AutoSampler-xyzRobot - DEBUG - closeGripper:  now close gripper
+2012-05-23 11:47:56,414 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:47:56,414 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:47:56,473 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:47:56,473 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:47:56,473 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:47:57,473 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:47:57,473 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:47:57,476 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2
+2012-05-23 11:47:59,322 - AutoSampler-xyzRobot - DEBUG - openGripper:  now open gripper
+2012-05-23 11:48:02,654 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-05-23 11:48:02,655 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-05-23 11:48:02,789 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 0 is now start position
+2012-05-23 11:48:02,790 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 0
+2012-05-23 11:48:02,790 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 0
+2012-05-23 11:48:03,790 - AutoSampler-xyzRobot - DEBUG - Current position of Motor 2 is now start position
+2012-05-23 11:48:03,790 - AutoSampler-xyzRobot - DEBUG - MotorPosition: 2
+2012-05-23 11:48:03,792 - AutoSampler-xyzRobot - DEBUG - Set as start position for motor 2

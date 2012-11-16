@@ -1,0 +1,68 @@
+2012-11-15 14:14:43,102 - weighApp - DEBUG - insert run
+2012-11-15 14:14:43,105 - weighApp - DEBUG - insert into tblRun (v_operatorName,d_datetime,i_numberOfSamples,v_locationCode, v_description,f_locationTemperature) VALUES (CPL,2012-11-15 14:14:43.103000,3,LMV,Belle Meade,18.000000)
+2012-11-15 14:14:43,259 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 14:14:44,493 - weighApp - DEBUG - insert empty crucible measurement into tblCrucible
+2012-11-15 14:14:44,602 - weighApp - DEBUG - insert empty sample measurement into tblSample with just the crucible info
+2012-11-15 14:14:44,604 - weighApp - ERROR - A SQL error occurred: 3 values for 5 columns
+2012-11-15 14:14:46,956 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:46,956 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:46.956000,3,0)
+2012-11-15 14:14:48,176 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:48,177 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:48.177000,4,0)
+2012-11-15 14:14:49,641 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:49,642 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:49.643000,5,0)
+2012-11-15 14:14:50,983 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:50,984 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:50.985000,6,0)
+2012-11-15 14:14:51,266 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:51,267 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:51,267 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=6, d_dateTime=11-15-12 14:14:51 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:51,433 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:51 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:51,434 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:52,572 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:52,572 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:52.572000,7,0)
+2012-11-15 14:14:52,717 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:52,717 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:52,717 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=7, d_dateTime=11-15-12 14:14:52 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:53,055 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:52 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:53,055 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:54,158 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:54,160 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:54.160000,8,0)
+2012-11-15 14:14:54,289 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:54,290 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:54,290 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=8, d_dateTime=11-15-12 14:14:54 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:54,388 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:54 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:54,388 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:55,502 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:55,503 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:55.503000,9,0)
+2012-11-15 14:14:55,655 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:55,655 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:55,657 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=9, d_dateTime=11-15-12 14:14:55 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:55,772 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:55 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:55,772 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:56,846 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:56,846 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:56.847000,10,0)
+2012-11-15 14:14:56,990 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:56,990 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:56,990 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=10, d_dateTime=11-15-12 14:14:56 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:57,154 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:56 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:57,154 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:58,309 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:58,311 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:58.310000,11,0)
+2012-11-15 14:14:58,440 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:58,441 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:58,441 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=11, d_dateTime=11-15-12 14:14:58 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:58,556 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:58 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:58,556 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:14:59,658 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:14:59,658 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:14:59.659000,12,0)
+2012-11-15 14:14:59,789 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:14:59,789 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:14:59,789 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=12, d_dateTime=11-15-12 14:14:59 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:14:59,898 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:14:59 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:14:59,898 - weighApp - ERROR - A SQL error occurred: near ")": syntax error
+2012-11-15 14:15:00,996 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 14:15:00,996 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,34.6474,2012-11-15 14:15:00.996000,13,0)
+2012-11-15 14:15:01,180 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 14:15:01,180 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 14:15:01,180 - weighApp - DEBUG - update tblCrucible SET f_averageWeight=34.647400, f_stdevWeight=0.000000, i_count=13, d_dateTime=11-15-12 14:15:01 WHERE i_positionNumber=1 AND i_runID=1
+2012-11-15 14:15:01,311 - weighApp - DEBUG - update tblSample SET f_crucibleWeightAverage=34.647400, f_crucibleWeightStdDev=0.000000,d_datetime=11-15-12 14:15:01 WHERE i_positionNumber=1 and i_runID=1
+2012-11-15 14:15:01,311 - weighApp - ERROR - A SQL error occurred: near ")": syntax error

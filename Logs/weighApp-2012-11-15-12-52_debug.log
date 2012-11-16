@@ -1,0 +1,20 @@
+2012-11-15 12:52:33,569 - weighApp - DEBUG - insert run
+2012-11-15 12:52:33,572 - weighApp - DEBUG - insert into tblRun (v_operatorName,d_datetime,i_numberOfSamples,v_locationCode, v_description,f_locationTemperature) VALUES (CPL,2012-11-15 12:52:33.570000,3,LMV,Belle Meade,17.000000)
+2012-11-15 12:52:33,690 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:35,023 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:36,361 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:38,339 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:38,811 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:39,043 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:39,298 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:39,523 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:39,739 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:39,940 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:40,275 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:40,487 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:40,667 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:40,849 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:41,017 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:41,200 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:41,367 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:52:49,148 - weighApp - DEBUG - Now on crucible: 1

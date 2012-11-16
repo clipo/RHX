@@ -1,0 +1,104 @@
+2012-11-15 12:04:53,025 - weighApp - DEBUG - insert run
+2012-11-15 12:04:53,026 - weighApp - DEBUG - insert into tblRun (v_operatorName,d_datetime,i_numberOfSamples,v_locationCode, v_description,f_locationTemperature) VALUES (CPL,2012-11-15 12:04:53.025000,3,LMV,Belle Meade,16.660000)
+2012-11-15 12:04:53,219 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 12:04:54,477 - weighApp - DEBUG - insert empty crucible measurement into tblCrucible
+2012-11-15 12:04:57,730 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:04:57,732 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:04:57.731000,3,0)
+2012-11-15 12:04:58,956 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:04:58,956 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:04:58.956000,4,0)
+2012-11-15 12:05:00,295 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:00,295 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:00.295000,5,0)
+2012-11-15 12:05:01,638 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:01,638 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:01.638000,6,0)
+2012-11-15 12:05:01,872 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:01,874 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:03,226 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:03,226 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:03.226000,7,0)
+2012-11-15 12:05:03,408 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:03,408 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:04,822 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:04,822 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:04.822000,8,0)
+2012-11-15 12:05:05,391 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:05,392 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:08,108 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:08,109 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:08.110000,9,0)
+2012-11-15 12:05:08,301 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:08,302 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:09,697 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:09,697 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:09.698000,10,0)
+2012-11-15 12:05:09,821 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:09,821 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:11,039 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:11,039 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:11.040000,11,0)
+2012-11-15 12:05:11,203 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:11,203 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:12,628 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:12,628 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:12.629000,12,0)
+2012-11-15 12:05:13,058 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:13,058 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:14,342 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:14,342 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,1,23.8737,2012-11-15 12:05:14.342000,13,0)
+2012-11-15 12:05:14,484 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=1 AND i_preOrPost= 0
+2012-11-15 12:05:14,486 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:15,658 - weighApp - DEBUG - Now on crucible: 2
+2012-11-15 12:05:34,443 - weighApp - DEBUG - insert empty crucible measurement into tblCrucible
+2012-11-15 12:05:36,924 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:36,924 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:36.925000,3,0)
+2012-11-15 12:05:38,145 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:38,145 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:38.146000,4,0)
+2012-11-15 12:05:39,487 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:39,489 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:39.489000,5,0)
+2012-11-15 12:05:40,953 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:40,953 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:40.953000,6,0)
+2012-11-15 12:05:41,119 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:41,119 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:42,305 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:42,305 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:42.305000,7,0)
+2012-11-15 12:05:42,493 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:42,493 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:43,763 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:43,763 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:43.764000,8,0)
+2012-11-15 12:05:43,993 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:43,993 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:45,240 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:45,240 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:45.240000,9,0)
+2012-11-15 12:05:45,615 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:45,615 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:46,936 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:46,936 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:46.936000,10,0)
+2012-11-15 12:05:47,111 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:47,112 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:48,401 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:48,401 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:48.402000,11,0)
+2012-11-15 12:05:48,542 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:48,542 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:49,744 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:49,744 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,2,23.8738,2012-11-15 12:05:49.745000,12,0)
+2012-11-15 12:05:49,930 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=2 AND i_preOrPost= 0
+2012-11-15 12:05:49,930 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:05:51,233 - weighApp - DEBUG - Now on crucible: 3
+2012-11-15 12:05:53,006 - weighApp - DEBUG - insert empty crucible measurement into tblCrucible
+2012-11-15 12:05:55,483 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:55,483 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:05:55.483000,3,0)
+2012-11-15 12:05:56,825 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:56,825 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:05:56.826000,4,0)
+2012-11-15 12:05:58,171 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:58,171 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:05:58.171000,5,0)
+2012-11-15 12:05:59,398 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:05:59,398 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:05:59.399000,6,0)
+2012-11-15 12:05:59,703 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=3 AND i_preOrPost= 0
+2012-11-15 12:05:59,703 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:00,976 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:06:00,976 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:06:00.977000,7,0)
+2012-11-15 12:06:01,194 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=3 AND i_preOrPost= 0
+2012-11-15 12:06:01,194 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:02,563 - weighApp - DEBUG - insert  measurement into tblMeasurement
+2012-11-15 12:06:02,565 - weighApp - DEBUG - insert into tblMeasurement (i_runID,i_positionNumber,f_weight,d_datetime,i_count,i_preOrPost) VALUES (1,3,23.8738,2012-11-15 12:06:02.564000,8,0)
+2012-11-15 12:06:02,921 - weighApp - DEBUG - select avg(f_weight) as avg, stdev(f_weight) as stdev  from tblMeasurement  where i_runID=1 AND i_positionNumber=3 AND i_preOrPost= 0
+2012-11-15 12:06:02,921 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:06,983 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:08,082 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:09,180 - weighApp - DEBUG - update empty crucible weight, etc.
+2012-11-15 12:06:19,036 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-15 12:06:19,038 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-15 12:06:19,039 - weighApp - DEBUG - select i_numberOfSamples, v_operatorName, v_locationCode,v_description,f_locationTemperature, i_temperatureOfFiring, i_durationOfFiring from tblRun

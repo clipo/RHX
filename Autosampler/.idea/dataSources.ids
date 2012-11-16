@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="SQLite" version="3.6.14.2" jdbc-version="2.1" driver-version="native" uuid="fb8d79aa-ee27-4a40-a723-f138d0bd434b">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:/Users/clipo/Dropbox/Rehydroxylation/Logger/TEST.sqlite</jdbc-url>
+    <default-dialect>SQLite</default-dialect>
+    <libraries>
+      <library>
+        <url>jar://$PROJECT_DIR$/sqlitejdbc-v056.jar!/</url>
+      </library>
+      <library>
+        <url>file://$PROJECT_DIR$/zentus-sqlite-license.txt</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>

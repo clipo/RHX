@@ -1,0 +1,39 @@
+2012-11-09 11:01:29,529 - AutoSampler-xyzRobot - DEBUG - Waiting for Arm to attach....
+2012-11-09 11:01:29,628 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for xsteppers...
+2012-11-09 11:01:29,628 - AutoSampler-xyzRobot - DEBUG - Waiting for ystepper motors to attach....
+2012-11-09 11:01:29,638 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for ysteppers...
+2012-11-09 11:01:29,638 - AutoSampler-xyzRobot - DEBUG - Waiting for ystepper motors to attach....
+2012-11-09 11:01:29,658 - AutoSampler-xyzRobot - DEBUG - Opening phidget object for zsteppers...
+2012-11-09 11:01:29,658 - AutoSampler-xyzRobot - DEBUG - Waiting for zstepper motors to attach....
+2012-11-09 11:01:29,678 - AutoSampler-xyzRobot - DEBUG - Setting Default values for the motor velocity limits
+2012-11-09 11:01:29,680 - AutoSampler-xyzRobot - DEBUG - Setting the servo type for motor 0 to PHIDGET_SERVO_HITEC_HS422
+2012-11-09 11:01:29,684 - AutoSampler-xyzRobot - DEBUG - Create an interfacekit object
+2012-11-09 11:01:29,684 - AutoSampler-xyzRobot - DEBUG - Opening phidget (sensor) object....
+2012-11-09 11:01:29,684 - AutoSampler-xyzRobot - DEBUG - Waiting for attach....
+2012-11-09 11:01:29,782 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-11-09 11:01:29,782 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-11-09 11:01:29,782 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-11-09 11:01:30,311 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-11-09 11:01:30,312 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-11-09 11:01:30,312 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-11-09 15:33:42,220 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-11-09 15:33:42,220 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-11-09 15:33:42,221 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-11-09 15:33:43,236 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-11-09 15:33:43,236 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-11-09 15:33:43,236 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-11-09 15:33:44,125 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-11-09 15:33:44,125 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-11-09 15:33:44,125 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition
+2012-11-09 15:54:48,220 - AutoSampler-xyzRobot - DEBUG - goHome:  Now going to the home position.
+2012-11-09 15:54:52,723 - AutoSampler-xyzRobot - DEBUG - Update the coordinates of the arm in terms of the motor
+2012-11-09 15:54:52,723 - AutoSampler-xyzRobot - DEBUG - getXPosition
+2012-11-09 15:54:52,723 - AutoSampler-xyzRobot - DEBUG - getYPosition
+2012-11-09 15:54:52,723 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-11-09 15:54:52,734 - AutoSampler-xyzRobot - DEBUG - Reset the coordinates of the home position
+2012-11-09 15:54:52,734 - AutoSampler-xyzRobot - DEBUG - resetCoordinates
+2012-11-09 15:54:52,734 - AutoSampler-xyzRobot - DEBUG - Set Positions of SERVOs and STEPPER MOTORS to 0
+2012-11-09 15:54:52,734 - AutoSampler-xyzRobot - DEBUG - getZPosition
+2012-11-09 15:54:52,775 - AutoSampler-xyzRobot - DEBUG - getXMotorPosition
+2012-11-09 15:54:52,775 - AutoSampler-xyzRobot - DEBUG - getYMotorPosition
+2012-11-09 15:54:52,775 - AutoSampler-xyzRobot - DEBUG - getZMotorPosition

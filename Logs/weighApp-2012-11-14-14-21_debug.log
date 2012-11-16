@@ -1,0 +1,6 @@
+2012-11-14 14:21:29,516 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-14 14:21:29,516 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-14 14:21:29,516 - weighApp - DEBUG - select i_numberOfSamples, v_operatorName, v_locationCode,v_description,f_locationTemperature, i_temperatureOfFiring, i_durationOfFiring from tblRun
+2012-11-14 14:21:33,229 - weighApp - DEBUG - update tbRun set i_numberOfSamples=3, v_operatorName=CPL, v_locationCode=LMV,v_description=Belle Meade,f_locationTemperature=16.66 from tblRun
+2012-11-14 14:21:33,259 - weighApp - ERROR - A SQL error occurred: near "from": syntax error
+2012-11-14 14:21:33,338 - weighApp - DEBUG - select max(i_runID) as max from tblRun

@@ -1,0 +1,18 @@
+2012-10-02 20:18:16,413 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:18:17,695 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:18:20,138 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:21:41,484 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:22:13,879 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:22:15,297 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:42:39,375 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:42:39,394 - rhxAnalyze - ERROR - A SQL error occurred: no such column: runID
+2012-10-02 20:44:24,604 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:44:24,685 - rhxAnalyze - ERROR - A SQL error occurred: no such column: runID
+2012-10-02 20:44:37,128 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:46:31,698 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:46:31,930 - rhxAnalyze - ERROR - A SQL error occurred: no such column: runID
+2012-10-02 20:46:39,172 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:46:46,222 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:53:59,692 - rhxAnalyze - DEBUG - select i_numberOfSamples from tblRun
+2012-10-02 20:54:07,399 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 
+2012-10-02 20:54:08,944 - rhxAnalyze - DEBUG - select f_weight, f_elapsedTimeQuarterPower, f_temperature, f_humidity from tblMeasurement where i_positionNumber=1 and i_preOrPost=4 

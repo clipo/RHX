@@ -1,0 +1,294 @@
+2012-10-19 15:58:09,229 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:09,269 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:58:09,270 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:09,270 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:58:09,270 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:58:09,270 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:09,653 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6647 g
+
+2012-10-19 15:58:09,653 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:09,653 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6647 g
+--Stable
+2012-10-19 15:58:09,654 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6647
+2012-10-19 15:58:22,346 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:22,384 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:58:22,384 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:22,384 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:58:22,384 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:58:22,384 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:22,753 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6648 g
+
+2012-10-19 15:58:22,753 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:22,753 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6648 g
+--Stable
+2012-10-19 15:58:22,753 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6648
+2012-10-19 15:58:28,569 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:28,608 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:58:28,608 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:28,608 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:58:28,608 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:58:28,608 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:29,013 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6649 g
+
+2012-10-19 15:58:29,013 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:29,013 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6649 g
+--Stable
+2012-10-19 15:58:29,013 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6649
+2012-10-19 15:58:42,394 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:42,434 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:58:42,434 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:42,434 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:58:42,434 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:58:42,434 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:42,898 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:58:42,898 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:42,898 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:58:42,898 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:58:54,585 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:54,621 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:58:54,621 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:54,621 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:58:54,621 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:58:54,621 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:58:55,022 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:58:55,023 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:58:55,023 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:58:55,023 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:01,177 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:01,216 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:01,217 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:01,217 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:01,217 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:01,217 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:01,671 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:01,671 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:01,671 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:01,673 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:06,880 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:06,917 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:06,917 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:06,917 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:06,917 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:06,917 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:07,344 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:07,344 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:07,344 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:07,344 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:11,801 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:11,842 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:11,842 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:11,842 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:11,842 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:11,842 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:12,232 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:12,233 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:12,233 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:12,233 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:16,648 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:16,684 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:16,684 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:16,684 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:16,684 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:16,684 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:17,121 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:17,121 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:17,121 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:17,121 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:23,591 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:23,628 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:23,628 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:23,628 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:23,628 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:23,628 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:23,967 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:23,967 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:23,967 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:23,967 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:30,857 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:30,898 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:30,898 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:30,898 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:30,898 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:30,898 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:31,201 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:31,203 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:31,203 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:31,203 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:36,239 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:36,276 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:36,279 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:36,279 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:36,279 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:36,279 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:36,677 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:36,677 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:36,677 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:36,677 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:41,963 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:42,005 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:42,005 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:42,005 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:42,005 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:42,005 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:42,348 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:42,348 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:42,348 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:42,348 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:50,272 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:50,309 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:50,309 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:50,309 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:50,309 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:50,309 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:50,759 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:50,759 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:50,759 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:50,759 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 15:59:56,517 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:56,555 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 15:59:56,555 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:56,555 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 15:59:56,555 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 15:59:56,555 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 15:59:57,015 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6651 g
+
+2012-10-19 15:59:57,015 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 15:59:57,015 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6651 g
+--Stable
+2012-10-19 15:59:57,015 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6651
+2012-10-19 16:00:02,934 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:02,971 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:02,971 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:02,971 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:02,971 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:02,971 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:03,273 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6652 g
+
+2012-10-19 16:00:03,273 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:03,273 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6652 g
+--Stable
+2012-10-19 16:00:03,273 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6652
+2012-10-19 16:00:05,703 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:05,744 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:05,744 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:05,744 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:05,746 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:05,746 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:06,210 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6652 g
+
+2012-10-19 16:00:06,210 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:06,210 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6652 g
+--Stable
+2012-10-19 16:00:06,210 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6652
+2012-10-19 16:00:08,631 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:08,671 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:08,671 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:08,671 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:08,671 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:08,673 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:09,140 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6652 g
+
+2012-10-19 16:00:09,140 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:09,140 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6652 g
+--Stable
+2012-10-19 16:00:09,140 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6652
+2012-10-19 16:00:11,542 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:11,579 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:11,579 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:11,579 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:11,579 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:11,579 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:11,878 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6653 g
+
+2012-10-19 16:00:11,878 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:11,878 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6653 g
+--Stable
+2012-10-19 16:00:11,880 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6653
+2012-10-19 16:00:20,302 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:20,338 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:20,338 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:20,338 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:20,338 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:20,338 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:20,678 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6654 g
+
+2012-10-19 16:00:20,678 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:20,678 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6654 g
+--Stable
+2012-10-19 16:00:20,678 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6654
+2012-10-19 16:00:24,301 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:24,358 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00009  g
+
+2012-10-19 16:00:24,358 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:24,358 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00009  g
+--Stable
+2012-10-19 16:00:24,358 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00009
+2012-10-19 16:00:24,358 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-10-19 16:00:24,786 - AutoSampler-DataReadWrite - DEBUG - instant read: S S     9.6654 g
+
+2012-10-19 16:00:24,786 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-10-19 16:00:24,786 - AutoSampler-DataReadWrite - DEBUG - Balance Output:S S     9.6654 g
+--Stable
+2012-10-19 16:00:24,786 - AutoSampler-DataReadWrite - DEBUG - Weight: 9.6654

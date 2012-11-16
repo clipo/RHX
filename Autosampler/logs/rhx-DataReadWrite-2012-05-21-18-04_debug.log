@@ -1,0 +1,110 @@
+2012-05-21 18:04:01,885 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:01,927 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000326 g
+
+2012-05-21 18:04:01,927 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:01,927 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000326 g
+--Unstable
+2012-05-21 18:04:01,930 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000326
+2012-05-21 18:04:06,178 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:06,220 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000501 g
+
+2012-05-21 18:04:06,220 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:06,220 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000501 g
+--Unstable
+2012-05-21 18:04:06,220 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000501
+2012-05-21 18:04:06,302 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:06,362 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000501 g
+
+2012-05-21 18:04:06,362 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:06,362 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000501 g
+--Unstable
+2012-05-21 18:04:06,362 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000501
+2012-05-21 18:04:07,381 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:07,421 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000446 g
+
+2012-05-21 18:04:07,421 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:07,421 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000446 g
+--Unstable
+2012-05-21 18:04:07,421 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000446
+2012-05-21 18:04:16,351 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:16,388 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000100 g
+
+2012-05-21 18:04:16,390 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:16,390 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000100 g
+--Unstable
+2012-05-21 18:04:16,390 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000100
+2012-05-21 18:04:20,265 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:20,318 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000542 g
+
+2012-05-21 18:04:20,319 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:20,319 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000542 g
+--Unstable
+2012-05-21 18:04:20,319 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000542
+2012-05-21 18:04:23,548 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-05-21 18:04:23,549 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-05-21 18:04:23,582 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-05-21 18:04:24,701 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:24,740 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000417 g
+
+2012-05-21 18:04:24,740 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:24,740 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000417 g
+--Unstable
+2012-05-21 18:04:24,740 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000417
+2012-05-21 18:04:35,049 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-05-21 18:04:35,049 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-05-21 18:04:35,085 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-05-21 18:04:36,088 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:36,125 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000071 g
+
+2012-05-21 18:04:36,125 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:36,125 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000071 g
+--Unstable
+2012-05-21 18:04:36,125 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000071
+2012-05-21 18:04:47,470 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:04:47,507 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000660 g
+
+2012-05-21 18:04:47,509 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:04:47,509 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000660 g
+--Unstable
+2012-05-21 18:04:47,509 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000660
+2012-05-21 18:07:17,447 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0 where rowid=1
+2012-05-21 18:07:18,463 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 18:07:18,500 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000301 g
+
+2012-05-21 18:07:18,502 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 18:07:18,502 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000301 g
+--Unstable
+2012-05-21 18:07:18,502 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000301
+2012-05-21 20:03:52,454 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where v_type = BALANCE_OUTSIDE
+2012-05-21 20:03:52,454 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-05-21 20:03:52,454 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-05-21 20:03:52,484 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-05-21 20:04:04,596 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=800 where rowid=1
+2012-05-21 20:04:17,786 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=-1800, i_yposition=800 where rowid=1
+2012-05-21 20:04:19,828 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-05-21 20:04:19,828 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-05-21 20:04:19,857 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-05-21 20:04:20,858 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-05-21 20:04:20,901 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.000377 g
+
+2012-05-21 20:04:20,901 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-05-21 20:04:20,901 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.000377 g
+--Unstable
+2012-05-21 20:04:20,903 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.000377
+2012-05-21 20:04:21,921 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-05-21 20:04:21,921 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-05-21 20:04:21,950 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-05-21 20:04:22,950 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where v_type = BALANCE_INSIDE
+2012-05-21 20:04:36,430 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=-3200, i_yposition=800 where rowid=1
+2012-05-21 20:04:39,101 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=-3200, i_yposition=740 where rowid=1
+2012-05-21 20:04:40,217 - AutoSampler-DataReadWrite - DEBUG - select f_xDistance, f_yDistance from tblCrucibleXY where v_type = BALANCE_INSIDE

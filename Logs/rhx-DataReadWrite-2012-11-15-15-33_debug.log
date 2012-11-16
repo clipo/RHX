@@ -1,0 +1,17 @@
+2012-11-15 15:33:16,611 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-15 15:33:16,648 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00039  g
+
+2012-11-15 15:33:16,648 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-15 15:33:16,648 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00039  g
+--Stable
+2012-11-15 15:33:16,648 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00039
+2012-11-15 15:33:17,042 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-15 15:33:26,805 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-15 15:33:26,845 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00039  g
+
+2012-11-15 15:33:26,845 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-15 15:33:26,845 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00039  g
+--Stable
+2012-11-15 15:33:26,845 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00039
+2012-11-15 15:33:27,207 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-15 15:33:31,785 - AutoSampler-DataReadWrite - DEBUG - select v_locationCode, i_numberOfSamples, v_description, f_locationTemperature, f_locationHumidity, d_dateTimeFiring, i_durationOfFiring,i_temperatureOfFiring, v_operatorName from tblRun where i_runID = 1

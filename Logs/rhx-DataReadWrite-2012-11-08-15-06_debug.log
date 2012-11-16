@@ -1,0 +1,240 @@
+2012-11-08 15:06:59,082 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:06:59,124 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00042  g
+
+2012-11-08 15:06:59,124 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:06:59,124 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00042  g
+--Stable
+2012-11-08 15:06:59,124 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00042
+2012-11-08 15:08:00,667 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:08:00,704 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00042  g
+
+2012-11-08 15:08:00,704 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:08:00,704 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00042  g
+--Stable
+2012-11-08 15:08:00,704 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00042
+2012-11-08 15:08:01,707 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:08:06,562 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where v_type = BALANCE_OUTSIDE
+2012-11-08 15:08:06,562 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-11-08 15:08:06,562 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-11-08 15:08:06,591 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-11-08 15:08:23,667 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=130000, i_zposition=0 where rowid=1
+2012-11-08 15:08:27,951 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=32000, i_yposition=130000, i_zposition=0 where rowid=1
+2012-11-08 15:08:29,970 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:08:30,006 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00040  g
+
+2012-11-08 15:08:30,007 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:08:30,007 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00040  g
+--Stable
+2012-11-08 15:08:30,007 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00040
+2012-11-08 15:08:32,946 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where v_type = BALANCE_OUTSIDE
+2012-11-08 15:08:32,947 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-11-08 15:08:32,947 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-11-08 15:08:32,974 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-11-08 15:08:36,987 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=32000, i_yposition=130000, i_zposition=0 where rowid=1
+2012-11-08 15:08:38,023 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=32000, i_yposition=130000, i_zposition=0 where rowid=1
+2012-11-08 15:08:40,033 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:08:40,095 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00045  g
+
+2012-11-08 15:08:40,095 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:08:40,095 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00045  g
+--Unstable
+2012-11-08 15:08:40,095 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00045
+2012-11-08 15:08:41,096 - AutoSampler-DataReadWrite - DEBUG - openBalanceDoor
+2012-11-08 15:08:41,096 - AutoSampler-DataReadWrite - DEBUG - Sending WS 1
+ to balance
+2012-11-08 15:08:41,125 - AutoSampler-DataReadWrite - DEBUG - Balance replies: WS A
+
+2012-11-08 15:08:42,125 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where v_type = BALANCE_INSIDE
+2012-11-08 15:08:46,142 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=32000, i_yposition=130000, i_zposition=0 where rowid=1
+2012-11-08 15:08:51,834 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=32000, i_yposition=166000, i_zposition=0 where rowid=1
+2012-11-08 15:08:52,851 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:08:52,891 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00041  g
+
+2012-11-08 15:08:52,891 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:08:52,891 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00041  g
+--Stable
+2012-11-08 15:08:52,891 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00041
+2012-11-08 15:09:03,953 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:09:03,990 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00042  g
+
+2012-11-08 15:09:03,990 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:09:03,990 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00042  g
+--Stable
+2012-11-08 15:09:03,990 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00042
+2012-11-08 15:09:13,059 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET i_xPosition=32000, i_yPosition=161000 where v_type=BALANCE_INSIDE
+2012-11-08 15:09:13,073 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET f_xDistance=3218, f_yDistance=16548 where v_type=BALANCE_INSIDE
+2012-11-08 15:09:13,101 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:09:13,138 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00042  g
+
+2012-11-08 15:09:13,140 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:09:13,140 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00042  g
+--Stable
+2012-11-08 15:09:13,140 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00042
+2012-11-08 15:09:14,141 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:09:14,178 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00042  g
+
+2012-11-08 15:09:14,178 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:09:14,178 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00042  g
+--Stable
+2012-11-08 15:09:14,178 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00042
+2012-11-08 15:09:18,569 - AutoSampler-DataReadWrite - DEBUG - select f_xDistance, f_yDistance from tblCrucibleXY where v_type = BALANCE_INSIDE
+2012-11-08 15:09:18,569 - AutoSampler-DataReadWrite - DEBUG - Select f_zPosition FROM tblCrucibleXY where i_samplePosition=20000
+2012-11-08 15:10:05,408 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:10:05,448 - AutoSampler-DataReadWrite - DEBUG - instant read: S D  21.31585  g
+
+2012-11-08 15:10:05,448 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:10:05,448 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D  21.31585  g
+--Unstable
+2012-11-08 15:10:05,448 - AutoSampler-DataReadWrite - DEBUG - Weight: 21.31585
+2012-11-08 15:10:57,569 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:10:57,605 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00036  g
+
+2012-11-08 15:10:57,605 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:10:57,605 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00036  g
+--Stable
+2012-11-08 15:10:57,605 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00036
+2012-11-08 15:15:00,517 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:15:00,532 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:15:01,548 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:15:01,586 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00037  g
+
+2012-11-08 15:15:01,586 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:15:01,586 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00037  g
+--Unstable
+2012-11-08 15:15:01,586 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00037
+2012-11-08 15:15:02,588 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:16:21,437 - AutoSampler-DataReadWrite - DEBUG - Select f_zPosition FROM tblCrucibleXY where i_samplePosition=1
+2012-11-08 15:16:41,874 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:16:41,910 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00041  g
+
+2012-11-08 15:16:41,911 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:16:41,911 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00041  g
+--Stable
+2012-11-08 15:16:41,911 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00041
+2012-11-08 15:16:42,911 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=260000 where rowid=1
+2012-11-08 15:21:47,117 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:21:47,154 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00037  g
+
+2012-11-08 15:21:47,154 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:21:47,154 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00037  g
+--Stable
+2012-11-08 15:21:47,154 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00037
+2012-11-08 15:21:48,154 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=260000 where rowid=1
+2012-11-08 15:22:07,645 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:22:07,686 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00039  g
+
+2012-11-08 15:22:07,686 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:22:07,686 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00039  g
+--Stable
+2012-11-08 15:22:07,686 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00039
+2012-11-08 15:22:08,687 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:23,371 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:23,384 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:23,395 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where i_samplePosition = 2
+2012-11-08 15:22:25,415 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:30,388 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=9000, i_zposition=0 where rowid=1
+2012-11-08 15:22:30,410 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:22:30,446 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00027  g
+
+2012-11-08 15:22:30,447 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:22:30,447 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00027  g
+--Unstable
+2012-11-08 15:22:30,447 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00027
+2012-11-08 15:22:40,776 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:40,792 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:40,802 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where i_samplePosition = 3
+2012-11-08 15:22:42,839 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:22:48,556 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=16500, i_zposition=0 where rowid=1
+2012-11-08 15:22:48,572 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:22:48,615 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00040  g
+
+2012-11-08 15:22:48,615 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:22:48,615 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00040  g
+--Stable
+2012-11-08 15:22:48,615 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00040
+2012-11-08 15:22:58,390 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:22:58,427 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00027  g
+
+2012-11-08 15:22:58,427 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:22:58,427 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00027  g
+--Unstable
+2012-11-08 15:22:58,427 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00027
+2012-11-08 15:23:04,522 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET i_xPosition=0, i_yPosition=17500 where i_samplePosition=3
+2012-11-08 15:23:04,634 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET f_xDistance=0, f_yDistance=1824 where i_samplePosition=3
+2012-11-08 15:23:04,651 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:23:04,690 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00039  g
+
+2012-11-08 15:23:04,690 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:23:04,690 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00039  g
+--Stable
+2012-11-08 15:23:04,690 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00039
+2012-11-08 15:24:10,665 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:10,678 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:10,693 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where i_samplePosition = 4
+2012-11-08 15:24:12,707 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:19,224 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=24500, i_zposition=0 where rowid=1
+2012-11-08 15:24:19,240 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:19,286 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00041  g
+
+2012-11-08 15:24:19,286 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:24:19,286 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00041  g
+--Unstable
+2012-11-08 15:24:19,286 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00041
+2012-11-08 15:24:24,913 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:24,954 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00044  g
+
+2012-11-08 15:24:24,954 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:24:24,954 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00044  g
+--Stable
+2012-11-08 15:24:24,954 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00044
+2012-11-08 15:24:28,967 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET i_xPosition=0, i_yPosition=25500 where i_samplePosition=4
+2012-11-08 15:24:29,006 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET f_xDistance=0, f_yDistance=2654 where i_samplePosition=4
+2012-11-08 15:24:29,023 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:29,071 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00032  g
+
+2012-11-08 15:24:29,072 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:24:29,072 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00032  g
+--Unstable
+2012-11-08 15:24:29,072 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00032
+2012-11-08 15:24:42,065 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:42,078 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:42,094 - AutoSampler-DataReadWrite - DEBUG - select i_xPosition, i_yPosition from tblCrucibleXY where i_samplePosition = 5
+2012-11-08 15:24:44,115 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:24:51,431 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=32500, i_zposition=0 where rowid=1
+2012-11-08 15:24:51,476 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:51,523 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00036  g
+
+2012-11-08 15:24:51,523 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:24:51,523 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00036  g
+--Stable
+2012-11-08 15:24:51,523 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00036
+2012-11-08 15:24:54,767 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:54,811 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00038  g
+
+2012-11-08 15:24:54,811 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:24:54,811 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00038  g
+--Unstable
+2012-11-08 15:24:54,811 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00038
+2012-11-08 15:24:58,724 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET i_xPosition=0, i_yPosition=33500 where i_samplePosition=5
+2012-11-08 15:24:58,746 - AutoSampler-DataReadWrite - DEBUG - update tblCrucibleXY SET f_xDistance=0, f_yDistance=3474 where i_samplePosition=5
+2012-11-08 15:24:58,779 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:24:58,819 - AutoSampler-DataReadWrite - DEBUG - instant read: S D   0.00039  g
+
+2012-11-08 15:24:58,819 - AutoSampler-DataReadWrite - DEBUG - String value: S D
+2012-11-08 15:24:58,819 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S D   0.00039  g
+--Unstable
+2012-11-08 15:24:58,819 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00039
+2012-11-08 15:36:39,996 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:36:40,007 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1
+2012-11-08 15:36:41,026 - AutoSampler-DataReadWrite - DEBUG - Reading instant weight from balance
+2012-11-08 15:36:41,062 - AutoSampler-DataReadWrite - DEBUG - instant read: S S   0.00037  g
+
+2012-11-08 15:36:41,063 - AutoSampler-DataReadWrite - DEBUG - String value: S S
+2012-11-08 15:36:41,063 - AutoSampler-DataReadWrite - DEBUG - Balance Ouput:S S   0.00037  g
+--Stable
+2012-11-08 15:36:41,063 - AutoSampler-DataReadWrite - DEBUG - Weight: 0.00037
+2012-11-08 15:36:42,063 - AutoSampler-DataReadWrite - DEBUG - update tblXY SET i_xposition=0, i_yposition=0, i_zposition=0 where rowid=1

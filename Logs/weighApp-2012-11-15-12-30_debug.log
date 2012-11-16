@@ -1,0 +1,5 @@
+2012-11-15 12:30:43,009 - weighApp - DEBUG - select i_numberOfSamples, v_operatorName, v_locationCode,v_description,f_locationTemperature, i_temperatureOfFiring, d_dateTimeFiring, i_durationOfFiring from tblRun
+2012-11-15 12:30:43,012 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-15 12:30:43,013 - weighApp - DEBUG - select i_numberOfSamples from tblRun
+2012-11-15 12:30:43,022 - weighApp - DEBUG - select max(i_runID) as max from tblRun
+2012-11-15 12:30:53,838 - weighApp - DEBUG - update tblRun set i_numberOfSamples=3, v_operatorName=CPL, v_locationCode=LMV,v_description=Belle Meade,f_locationTemperature=16.66 where i_RunID=1

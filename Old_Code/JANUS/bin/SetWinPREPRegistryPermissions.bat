@@ -1,0 +1,1 @@
+regini.exe SetWinPREPRegistryPermissions.ini

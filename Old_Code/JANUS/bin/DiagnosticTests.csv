@@ -1,0 +1,10 @@
+Align &Tips,            Moves tips to alignment rack,                                 AlignTips.MPT
+Change &Adapter,        Lowers tips one at a time to allow for adapter change,        ChangeAdapter.MPT
+&Change Syringe,        Lowers plunger to allow for syringe change,                   ChangeSyringe.MPT
+&Daily Decontamination, Performs a decontamination of the tip to syringe liquid path, DailyDecon.MPT
+&Flush and Wash Tips,   Performs a flush and wash of all tips with system liquid,     FlushSysLiq.MPT
+&Liquid Sense Test,     Tests ability to sense liquid in specified wells,             LiqSenseTest.MPT 
+&Pickup Tips Test,      Tests ability to pickup disposable tips,                      PickupTipTest.MPT 
+&Random Move Test,      Exercises movement functions of the arm,                      Random XY Test.MPT
+&Syringe Test,          Tests ability of selected syringe to dispense liquid,         SyringeTest.MPT
+Reteach Barcode Read Position, Reteaches the position used to read barcodes, SecondaryBarcodeReteachBarcodeReaderPosition.MPT

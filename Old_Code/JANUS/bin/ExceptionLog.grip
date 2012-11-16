@@ -1,0 +1,332 @@
+05/31/2006 14:45:18 - [CArm2::MoveAbsolute]
+Error during Gripper arm move.
+
+05/31/2006 14:45:47 - [CArm2::MoveAbsolute]
+Error during Gripper arm move.
+
+05/31/2006 15:35:16 - [CDlgTeachDeckCoordinates::OnButRight]
+Error moving the arm right.
+
+05/31/2006 15:35:23 - [CDlgTeachDeckCoordinates::OnButRight]
+Error moving the arm right.
+
+05/31/2006 15:35:30 - [CDlgTeachDeckCoordinates::OnButRight]
+Error moving the arm right.
+
+05/31/2006 15:35:36 - [CDlgTeachDeckCoordinates::OnButRight]
+Error moving the arm right.
+
+05/31/2006 15:35:41 - [CDlgTeachDeckCoordinates::OnButLeft]
+Error moving the arm left.
+
+05/31/2006 15:36:28 - [CDlgTeachDeckCoordinates::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+05/31/2006 15:36:45 - [CDlgTeachDeckCoordinates::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+05/31/2006 15:38:47 - [CDlgTeachDeckCoordinates::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+05/31/2006 15:39:19 - [CDlgTeachDeckCoordinates::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+07/26/2006 10:32:27 - [CArm2::MoveAbsoluteZ]
+Error during Z axis move.
+
+08/23/2006 10:54:30 - [CArm2::MoveAbsoluteZ]
+Error during Z axis move.
+
+08/23/2006 14:03:21 - [CDlgTeachPosition::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+08/23/2006 14:09:16 - [CArm2::GenericGet]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 1201.122
+Y coordinate: 49.036
+Z coordinate: 222.498
+Theta coordinate: -2.514
+Grip coordinate: 15.382
+
+08/23/2006 14:18:05 - [CArm2::GenericGet]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 1201.122
+Y coordinate: 49.036
+Z coordinate: 222.498
+Theta coordinate: -2.514
+Grip coordinate: 15.382
+
+08/23/2006 14:22:25 - [CDlgTeachPosition::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+08/23/2006 14:22:35 - [CDlgTeachPosition::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+08/23/2006 14:33:41 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+08/23/2006 14:33:47 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+08/23/2006 14:34:11 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+08/23/2006 14:34:57 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+08/23/2006 14:38:52 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+08/23/2006 14:41:11 - [CArm2::GenericGet]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 1201.122
+Y coordinate: 49.036
+Z coordinate: 222.498
+Theta coordinate: -2.514
+Grip coordinate: 15.382
+
+08/23/2006 14:49:53 - [CArm2::GenericGet]
+Error during Get Plate Step.
+Move gripper arm.
+ Z motor fault on move to coord 203.189
+08/23/2006 14:52:28 - [CArm2::GenericGet]
+Error during Get Plate Step.
+Move gripper arm.
+ Z motor fault on move to coord 184.501
+08/23/2006 14:58:00 - [CArm2::GenericPut]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 1201.122
+Y coordinate: 49.036
+Z coordinate: 222.498
+Theta coordinate: -2.514
+Grip coordinate: 15.382
+
+08/23/2006 15:31:30 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+08/23/2006 16:47:24 - [CArm2::GenericPut]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 784.490
+Y coordinate: 97.004
+Z coordinate: 242.204
+Theta coordinate: -1.685
+Grip coordinate: 19.400
+
+08/23/2006 16:53:49 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+08/23/2006 16:59:12 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+08/23/2006 16:59:54 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+08/23/2006 17:01:12 - [CArm2::GenericGet]
+Error during Get Plate Step.
+One of the following move coordinates was invalid.
+
+X coordinate: 963.802
+Y coordinate: 266.466
+Z coordinate: 179.808
+Theta coordinate: -1.685
+Grip coordinate: 22.260
+
+08/23/2006 17:01:54 - [CDlgTeachPosition::OnButGoto]
+Error moving Z axis.
+
+The following motors have faulted:
+05/27/2010 10:12:43 - [CArm2::InitializeArm]
+Failure initializing gripper arm.
+Error communicating with the gripper
+
+
+05/27/2010 12:12:24 - [CDlgTeachDeckCoordinates::OnButUp]
+Error moving the arm up.
+
+05/27/2010 12:14:16 - [CDlgTeachDeckCoordinates::OnButUp]
+Error moving the arm up.
+
+06/02/2010 15:37:36 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 15:37:46 - [CArm2::InitializeArm]
+Failure initializing gripper arm.
+Error communicating with the gripper
+
+
+06/02/2010 15:38:36 - [CArm2::ClearXFault]
+Error clearing X axis fault.
+
+06/02/2010 15:38:37 - [CDlgTeachDeckCoordinates::UpdateMotorPowerRAD]
+Error on a motor power status command.
+
+06/02/2010 15:38:45 - [CDlgTeachDeckCoordinates::OnDestroy]
+Error moving the gripper arm up.
+
+06/02/2010 15:38:57 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 15:42:23 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 15:42:52 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 15:45:36 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 15:57:12 - [CArm2::Initialize]
+Failure initializing gripper arm.
+
+06/02/2010 16:19:43 - [CArm2::MoveAbsolute]
+Error during Gripper arm move.
+
+06/02/2010 16:22:46 - [CDlgTeachPosition::OnButGoto]
+Error moving gripper arm.
+
+Motor travel limits have been exceeded.
+Please verify all coordinates are within the motor limits.
+06/02/2010 16:23:50 - [CDlgTeachPosition::OnButRight]
+Error moving the arm right.
+
+06/02/2010 16:25:03 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:35:04 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 13:35:07 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:35:09 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:35:57 - [CDlgTeachPosition::OnButRight]
+Error moving the arm right.
+
+06/03/2010 13:52:46 - [CDlgTeachPosition::OnButRight]
+Error moving the arm right.
+
+06/03/2010 13:53:14 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 13:53:20 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:53:23 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 13:53:27 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 13:53:30 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:53:49 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 13:53:52 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 13:56:56 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 13:57:07 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 16:02:39 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 16:02:50 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:03:07 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:03:12 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:03:34 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 16:03:54 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 16:11:59 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 16:12:05 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 16:12:16 - [CDlgTeachPosition::OnButDown]
+Error moving the arm down.
+
+06/03/2010 16:15:13 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:15:23 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 16:15:45 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:15:47 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:16:01 - [CDlgTeachPosition::OnButClose]
+Error closing gripper.
+
+06/03/2010 16:16:47 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:16:54 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:16:58 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:25:36 - [CDlgTeachPosition::OnButUp]
+Error moving the arm up.
+
+06/03/2010 16:25:40 - [CDlgTeachPosition::OnButUp]
+Error moving the arm up.
+
+06/03/2010 16:25:48 - [CDlgTeachPosition::OnButUp]
+Error moving the arm up.
+
+06/03/2010 16:27:23 - [CDlgTeachPosition::OnButBack]
+Error moving the arm back.
+
+06/03/2010 16:28:40 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:29:10 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+
+06/03/2010 16:29:23 - [CDlgTeachPosition::OnButOpen]
+Error opening gripper.
+

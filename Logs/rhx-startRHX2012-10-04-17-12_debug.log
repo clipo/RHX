@@ -1,0 +1,41 @@
+2012-10-04 17:13:27,223 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:13:27,224 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:13:45,272 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:13:45,272 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:13:53,437 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:13:53,437 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:13:58,536 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:13:58,536 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:14:07,259 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:07,260 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:14:15,257 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:15,257 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:14:23,549 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:23,551 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:14:36,105 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:36,105 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:14:43,267 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:43,267 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:14:50,237 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:50,237 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:14:56,651 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:14:56,651 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:15:02,755 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:15:02,756 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:15:20,812 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 1000
+2012-10-04 17:15:25,983 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 1000
+2012-10-04 17:15:37,298 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:15:37,299 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 40000
+2012-10-04 17:15:51,667 - AutoSampler-startRHX - DEBUG - bumpZMotorDown
+2012-10-04 17:15:51,667 - AutoSampler-startRHX - DEBUG - bumpZMotorDown: 20000
+2012-10-04 17:16:11,599 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-10-04 17:19:54,632 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 2
+2012-10-04 17:20:13,686 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 3
+2012-10-04 17:20:29,296 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 1
+2012-10-04 17:20:46,552 - AutoSampler-startRHX - DEBUG - setMotorXToZero
+2012-10-04 17:20:47,625 - AutoSampler-startRHX - DEBUG - setMotorYToZero
+2012-10-04 17:21:01,492 - AutoSampler-startRHX - DEBUG - go_initialize: initialize function running. pre-weigh crucibles
+2012-10-04 17:21:01,493 - AutoSampler-startRHX - DEBUG - XMotor: 0  YMotor: 0
+2012-10-04 17:21:01,493 - AutoSampler-startRHX - DEBUG - Set the current position of motors to zero ... 
+2012-10-04 17:21:01,507 - AutoSampler-startRHX - DEBUG - Now going to move and measure each of the crucibles... 
+2012-10-04 17:21:01,507 - AutoSampler-startRHX - DEBUG - xyzRobot.weighAllCrucibles(CPL,5,5,5,1)

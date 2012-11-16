@@ -1,0 +1,2 @@
+copy Mp2XYVZZZZ_32.dll Mp2XYVZZZZ.dll
+copy AMM_SV_32.i0 AMM_SV.i0

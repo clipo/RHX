@@ -1,0 +1,39 @@
+2012-05-21 20:11:47,729 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-05-21 20:17:00,224 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-05-21 20:20:08,993 - AutoSampler-startRHX - DEBUG - goToBalance:  Go to point outside of balance
+2012-05-21 20:20:36,348 - AutoSampler-startRHX - DEBUG - openBalanceDoor: Open the balance door
+2012-05-21 20:20:37,466 - AutoSampler-startRHX - DEBUG - Go to inside of balance
+2012-05-21 20:29:13,026 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 20
+2012-05-21 20:29:18,664 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:29:20,901 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:29:26,792 - AutoSampler-startRHX - DEBUG - bumpXMotorDown: 20
+2012-05-21 20:29:38,273 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:29:42,196 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:29:48,476 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:29:52,150 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:30:02,109 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:30:06,308 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:30:08,894 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:30:11,342 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:30:16,397 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 20
+2012-05-21 20:30:34,890 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:30:42,364 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:30:45,427 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:30:57,457 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:31:07,438 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:31:12,884 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 20
+2012-05-21 20:31:14,203 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:31:22,141 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:31:26,446 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:31:36,026 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 20:31:43,698 - AutoSampler-startRHX - DEBUG - bumpXMotorUp: 20
+2012-05-21 21:49:49,469 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-05-21 21:50:27,454 - AutoSampler-startRHX - DEBUG - goToBalance:  Go to point outside of balance
+2012-05-21 21:50:54,821 - AutoSampler-startRHX - DEBUG - openBalanceDoor: Open the balance door
+2012-05-21 21:50:56,042 - AutoSampler-startRHX - DEBUG - Go to inside of balance
+2012-05-21 22:15:22,332 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-05-21 22:16:09,033 - AutoSampler-startRHX - DEBUG - goToBalance:  Go to point outside of balance
+2012-05-21 22:16:36,375 - AutoSampler-startRHX - DEBUG - openBalanceDoor: Open the balance door
+2012-05-21 22:16:37,450 - AutoSampler-startRHX - DEBUG - Go to inside of balance
+2012-05-21 22:28:08,726 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-05-21 22:28:47,861 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position

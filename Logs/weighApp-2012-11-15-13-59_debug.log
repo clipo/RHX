@@ -1,0 +1,4 @@
+2012-11-15 13:59:48,375 - weighApp - DEBUG - insert run
+2012-11-15 13:59:48,378 - weighApp - DEBUG - insert into tblRun (v_operatorName,d_datetime,i_numberOfSamples,v_locationCode, v_description,f_locationTemperature) VALUES (CPL,2012-11-15 13:59:48.377000,3,LMV,Belle Meade 1,20.000000)
+2012-11-15 13:59:48,575 - weighApp - DEBUG - Now on crucible: 1
+2012-11-15 13:59:51,970 - weighApp - DEBUG - insert empty crucible measurement into tblCrucible

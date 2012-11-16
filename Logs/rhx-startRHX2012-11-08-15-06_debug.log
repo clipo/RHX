@@ -1,0 +1,11 @@
+2012-11-08 15:09:02,384 - AutoSampler-startRHX - DEBUG - bumpYMotorLeft: 5000
+2012-11-08 15:14:37,012 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position
+2012-11-08 15:21:45,059 - AutoSampler-startRHX - DEBUG - openGripper: Open gripper
+2012-11-08 15:22:18,865 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 2
+2012-11-08 15:22:36,273 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 3
+2012-11-08 15:22:57,229 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 1000
+2012-11-08 15:24:05,163 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 4
+2012-11-08 15:24:23,757 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 1000
+2012-11-08 15:24:35,562 - AutoSampler-startRHX - DEBUG - goToPosition:  Go to position: 5
+2012-11-08 15:24:53,611 - AutoSampler-startRHX - DEBUG - bumpYMotorRight: 1000
+2012-11-08 15:36:32,493 - AutoSampler-startRHX - DEBUG - goHome: Go to Home Position

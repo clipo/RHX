@@ -1,0 +1,8 @@
+2012-11-09 15:58:12,861 - AutoSampler-startRHX - DEBUG - setMotorXToZero
+2012-11-09 15:58:13,467 - AutoSampler-startRHX - DEBUG - setMotorYToZero
+2012-11-09 15:58:36,509 - AutoSampler-startRHX - DEBUG - go_initialize: initialize function running. pre-weigh crucibles
+2012-11-09 15:58:36,509 - AutoSampler-startRHX - DEBUG - XMotor: 0  YMotor: 0
+2012-11-09 15:58:36,509 - AutoSampler-startRHX - DEBUG - Set the current position of motors to zero ... 
+2012-11-09 15:58:36,520 - AutoSampler-startRHX - DEBUG - Now going to move and measure each of the crucibles... 
+2012-11-09 15:58:36,520 - AutoSampler-startRHX - DEBUG - xyzRobot.weighAllCrucibles(CPL,5,5,3,1)
+2012-11-09 16:52:13,252 - AutoSampler-startRHX - DEBUG - Initialize Crucibles: Done!   

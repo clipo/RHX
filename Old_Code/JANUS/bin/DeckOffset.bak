@@ -1,0 +1,4 @@
+manifold	3m	-56.485	-13.351	-45.318	0.026	19.993	1	250	0	0	none
+manifold	Bottom Sample Plate	-69.685	21.172	-28.786	0.000	23.474	0	250	0	1	Left
+manifold	Top	-69.685	19.278	-84.471	0.000	34.468	1	250	0	0	none
+manifold	Top Sample Plate	-69.741	21.659	-64.254	0.000	19.173	0	250	0	1	Right
