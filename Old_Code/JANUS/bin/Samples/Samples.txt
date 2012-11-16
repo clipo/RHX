@@ -1,7 +1,0 @@
-This directory holds sample WinPREP tests as well as text files that enumerate
-some of the C functions that are callable from a MSL script.
-
-To view a description of a sample test.  Open the test with WinPREP, double
-click on the "Test Outline" node in the test tree and click on the "Comments"
-page of the properties dialog that appears.
-

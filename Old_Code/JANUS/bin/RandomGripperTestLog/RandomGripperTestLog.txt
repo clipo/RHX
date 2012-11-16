@@ -1,3 +1,0 @@
-
-Test ended on Fri May 28 12:50:13 2010 after 100 moves.
-Error summary: X=0, Y=0, Z=0, G=0, T=0
