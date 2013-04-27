@@ -1,6 +1,6 @@
 __author__ = 'Archy'
 
-UltraBalance='COM15'
-StandardBalance='COM34'
-TempControl='COM8'
-SampleBalance='COM1'
+UltraBalance = 'COM3'
+StandardBalance = 'COM5'
+TempControl = 'COM8'
+SampleBalance = 'COM1'
